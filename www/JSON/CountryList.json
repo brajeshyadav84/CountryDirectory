@@ -1,0 +1,32 @@
+// http://www.infoplease.com/countries.html
+
+{"CountryList": [
+	{
+		"Flag" : "",
+		"Seal": {
+			"Title" : "",
+			"Image" : ""
+		},
+		"CountryCode" : "",
+		"CountryName" : "",
+		"Anthem" : "",
+		"Motto" : "",
+		"GeneralInfo" : {
+			"Capital" : "",
+			"Area" : "",
+			"Population" : "",
+			"Language": "",
+			"Currency" : "",
+			"CallingCode" : "",
+			"InternetTLD" : "",
+			"TimeZone" : ""
+		},
+		"Government": "",
+		"DateFormat" : "",
+		"CurrentTime": "",
+		"Temperature" : "",
+		"BestPlaceToVisit": "",
+		"Map" : "",
+		"Geography" : ""
+	}
+]}
