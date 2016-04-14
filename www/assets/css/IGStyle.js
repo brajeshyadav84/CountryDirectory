@@ -145,8 +145,6 @@ var styles = StyleSheet.create({
         flexDirection:'row',
     },
     subHeader: {
-        color:'#888888',
-        fontWeight:'bold',
         justifyContent: 'center',
         alignItems: 'center',
         flex:1                //Step 3
@@ -158,17 +156,12 @@ var styles = StyleSheet.create({
     },
     leftSubHeader: {
         width: 60,
-        color:'#888888',
-        fontWeight:'bold',
         justifyContent: 'center',
         alignItems: 'center',
         //flex:1                //Step 3
     },
     rightSubHeader: {
         width: 60,
-        color:'#888888',
-        textAlign:'center',
-        fontWeight:'bold',
         justifyContent: 'center',
         alignItems: 'center',
         //flex:1                //Step 3

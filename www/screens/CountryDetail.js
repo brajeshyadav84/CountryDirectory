@@ -4,6 +4,7 @@
 var React = require('react-native'),
     Dimensions = require('Dimensions'),
     windowSize = Dimensions.get('window'),
+    HeaderTabComponent = require('../component/HeaderTabComponent'),
     IGStyle = require('../assets/css/IGStyle');
 
 var {
@@ -78,6 +79,7 @@ var CountryDetail = React.createClass({
 
 		return (
 			<View style={IGStyle.bgGrey}>
+				<HeaderTabComponent headerContent='interviewgully' preScreen={() => that.preScreen()} />
 						<ScrollView contentContainerStyle={IGStyle.stage, IGStyle.scrollView} >
 				          	{titles}
 				        </ScrollView>
