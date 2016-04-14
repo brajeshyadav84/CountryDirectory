@@ -69,8 +69,8 @@ var CountryDetail = React.createClass({
                         <View style={IGStyle.topicTitle}>
                           <Text style={IGStyle.titleText}>{obj.CText}</Text>
                         </View>
-                        <View style={IGStyle.arrowImage}>
-                          <Image style={IGStyle.arrow} source={{uri: 'http://www.clker.com/cliparts/V/1/Z/A/h/U/left-arrow-right-md.png'}} />
+                        <View style={IGStyle.topicTitle}>
+                          <Text style={IGStyle.titleText}>{obj.CText}</Text>
                         </View>
                     </View>
               </TouchableOpacity>
