@@ -67,9 +67,9 @@ var styles = StyleSheet.create({
         // marginTop:10,
     },
     imageLogo : {
-        // width: 60,
+         width: 45,
         // fontWeight:'bold',
-        // marginLeft:15,
+         marginLeft:15
     },
     bg: {
         position: 'absolute',
@@ -104,9 +104,9 @@ var styles = StyleSheet.create({
         // fontWeight:'bold',
     },
     logo: {
-        // width: 50,
-        // height: 50,
-        // borderRadius: 25
+        width: 35,
+        height: 35,
+        borderRadius: 25
     },
     arrow: {
         width: 20,
