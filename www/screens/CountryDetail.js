@@ -67,13 +67,41 @@ var CountryDetail = React.createClass({
 				<HeaderTabComponent headerContent='interviewgully' preScreen={() => that.preScreen()} />
 						<ScrollView contentContainerStyle={IGStyle.stage, IGStyle.scrollView} >
 				          	<View style={IGStyle.cardTitleMenuLayout}>
-		                        <View style={IGStyle.topicTitle}>
+		                        <View>
 		                          <Text style={IGStyle.titleText}>testing</Text>
 		                        </View>
-		                        <View style={IGStyle.topicTitle}>
+		                        <View>
+		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        </View>
+		                        <View>
+		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        </View>
+		                        <View>
+		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        </View>
+		                        <View>
+		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        </View>
+		                        <View>
+		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        </View>
+		                        <View>
+		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        </View>
+		                        <View>
+		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        </View>
+		                        <View>
+		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        </View>
+		                        <View>
+		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        </View>
+		                        <View>
 		                          <Text style={IGStyle.titleText}>testing</Text>
 		                        </View>
 		                    </View>
+		                    
 				        </ScrollView>
 		        	</View>
 		);

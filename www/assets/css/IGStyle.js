@@ -43,7 +43,8 @@ var styles = StyleSheet.create({
         backgroundColor: 'white',
         height: 1200,
         width: windowSize.width,
-        flexDirection:'row', 
+        padding:10
+        
     },
     imageBG: {
         position: 'absolute',
