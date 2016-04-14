@@ -39,11 +39,9 @@ var styles = StyleSheet.create({
         flexDirection:'row', 
     },
     cardTitleMenuLayout: {
-        marginTop:10,
+        marginTop:5,
         backgroundColor: 'white',
-        height: 40,
-        alignItems: 'center', 
-        justifyContent: 'center',
+        height: 1200,
         width: windowSize.width,
         flexDirection:'row', 
     },

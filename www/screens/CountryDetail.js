@@ -61,27 +61,19 @@ var CountryDetail = React.createClass({
 	render: function(){
 	 	var that = this;
 	 	var contentList = that.props.menuContentList.ContentDetails;
-	    var titles = contentList.map(function(obj) {
-        return (
-              <TouchableOpacity key={obj.CID}
-                    onPress={() => that.nextScreen('PlayContent',obj)}>
-                    <View style={IGStyle.cardTitleMenuLayout}>
-                        <View style={IGStyle.topicTitle}>
-                          <Text style={IGStyle.titleText}>{obj.CText}</Text>
-                        </View>
-                        <View style={IGStyle.topicTitle}>
-                          <Text style={IGStyle.titleText}>{obj.CText}</Text>
-                        </View>
-                    </View>
-              </TouchableOpacity>
-        );
-      });
 
 		return (
 			<View style={IGStyle.bgGrey}>
 				<HeaderTabComponent headerContent='interviewgully' preScreen={() => that.preScreen()} />
 						<ScrollView contentContainerStyle={IGStyle.stage, IGStyle.scrollView} >
-				          	{titles}
+				          	<View style={IGStyle.cardTitleMenuLayout}>
+		                        <View style={IGStyle.topicTitle}>
+		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        </View>
+		                        <View style={IGStyle.topicTitle}>
+		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        </View>
+		                    </View>
 				        </ScrollView>
 		        	</View>
 		);
