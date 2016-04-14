@@ -3,50 +3,61 @@
  * https://github.com/facebook/react-native
  */
 
-import React, {
+var React = require('react-native'),
+    Home  = require('./www/screens/Home'),
+    CountryDetail = require('./www/screens/CountryDetail');
+
+var {
   AppRegistry,
-  Component,
-  StyleSheet,
+  TextInput,
   Text,
-  View
-} from 'react-native';
+  View,
+  TabBarIOS,
+  Navigator,
+  TouchableOpacity
+} = React;
 
-class CountryDirectory extends Component {
-  render() {
-    return (
-      <View style={styles.container}>
-        <Text style={styles.welcome}>
-          Welcome to React Native!
-        </Text>
-        <Text style={styles.instructions}>
-          To get started, edit index.ios.js
-        </Text>
-        <Text style={styles.instructions}>
-          Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
-        </Text>
-      </View>
-    );
+var CountryDirectory = React.createClass({
+  getInitialState: function() {
+        return {
+            
+        };
+  },
+
+  renderScene: function(route, navigator) {
+    var routeId = route.id;
+    if (routeId === 'Home') {
+      return (
+        <Home navigator={navigator} />
+      );
+    } else if (routeId === 'CountryDetail') {
+      return (
+        <CountryDetail navigator={navigator} menuContentList={route.passProps}/>
+      );
+    }
+  },
+
+  render: function() {
+     return (
+        <Navigator
+            initialRoute={{id: 'Home', name: 'Index',passProps:'',navFromScreen:'' }}
+            renderScene={this.renderScene.bind(this)}
+            configureScene={(route) => {
+            if (route.sceneConfig) {
+              return route.sceneConfig;
+            }
+            if(route.navFromScreen == 'fromLeft'){
+                return Navigator.SceneConfigs.FloatFromLeft;
+            } else if (route.navFromScreen == 'fromTop'){
+                return Navigator.SceneConfigs.FloatFromRight;
+            } else if (route.navFromScreen == 'fromBottom'){
+                return Navigator.SceneConfigs.FloatFromRight;
+            } else {
+                return Navigator.SceneConfigs.FloatFromRight;
+            }
+        }} />
+      );
   }
-}
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#F5FCFF',
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
-  },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
 });
 
 AppRegistry.registerComponent('CountryDirectory', () => CountryDirectory);
