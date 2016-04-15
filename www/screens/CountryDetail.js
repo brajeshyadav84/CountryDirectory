@@ -56,15 +56,16 @@ var CountryDetail = React.createClass({
 		that.setState({
 			contentList : that.props.menuContentList.ContentDetails
 		});
+		console.log("that.props.menuContentList");console.log(that.props.menuContentList);
 	},
 
 	render: function(){
 	 	var that = this;
 	 	var contentList = that.props.menuContentList.ContentDetails;
-
+	 	var header = that.props.menuContentList.TText;
 		return (
 			<View style={IGStyle.bgGrey}>
-				<HeaderTabComponent headerContent='interviewgully' preScreen={() => that.preScreen()} />
+				<HeaderTabComponent headerContent={header} preScreen={() => that.preScreen()} />
 						<ScrollView contentContainerStyle={IGStyle.stage, IGStyle.scrollView} >
 				          	<View style={IGStyle.cardTitleMenuLayout}>
 		                        <View style={IGStyle.flagLayout}>
