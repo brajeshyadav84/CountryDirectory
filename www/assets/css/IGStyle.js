@@ -24,7 +24,16 @@ var styles = StyleSheet.create({
         flex:1,
         flexDirection: 'row',
         justifyContent: 'space-between',
-        padding:10
+        padding:10,
+        height:150
+    },
+    flagTextLayout:{
+        flex:1,
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        paddingTop:80,
+        paddingLeft:40,
+        paddingRight:40
     },
     otherLayout:{
         flex:1,
@@ -129,11 +138,17 @@ var styles = StyleSheet.create({
         // width: 30,
         // fontWeight:'bold',
     },
+    countryImage: {
+        width: 150,
+        height: 100
+    },
+
     logo: {
         width: 35,
         height: 35,
         borderRadius: 25
     },
+
     arrow: {
         width: 20,
         height: 20,
