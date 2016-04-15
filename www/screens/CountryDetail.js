@@ -68,8 +68,8 @@ var CountryDetail = React.createClass({
 						<ScrollView contentContainerStyle={IGStyle.stage, IGStyle.scrollView} >
 				          	<View style={IGStyle.cardTitleMenuLayout}>
 		                        <View style={IGStyle.flagLayout}>
-		                          <Image style={IGStyle.countryImage} source={{uri: 'http://facebook.github.io/react/img/logo_og.png'}} />
-		                          <Image style={IGStyle.countryImage} source={{uri: 'http://facebook.github.io/react/img/logo_og.png'}} />
+		                          <Image style={IGStyle.countryImage} source={{uri: 'http://i.infopls.com/images/afghan.gif'}} />
+		                          <Image style={IGStyle.countryImage} source={{uri: 'http://i.infopls.com/images/afghan.gif'}} />
 		                        </View>
 		                        <View style={IGStyle.flagTextLayout}>
 		                          <Text style={IGStyle.titleText}>Country Flag </Text>
@@ -175,7 +175,7 @@ var CountryDetail = React.createClass({
 		                          <Text style={IGStyle.titleHeaderText}>Map </Text>
 		                        </View>
 		                        <View style={IGStyle.mapLayout}> 
-		                          <Image style={IGStyle.mapImage} source={{uri: 'http://facebook.github.io/react/img/logo_og.png'}} />
+		                          <Image style={IGStyle.mapImage} source={{uri: 'http://i.infopls.com/images/mafghan.gif'}} />
 		                        </View>
 
 		                    </View>

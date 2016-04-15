@@ -156,7 +156,7 @@ var Home = React.createClass ({
               <TouchableOpacity key={obj.TID} onPress={() => that.nextScreen('CountryDetail',obj)}>
                     <View style={IGStyle.cardTitleLayout}>
                         <View style={IGStyle.imageLogo}>
-                          <Image style={IGStyle.logo} source={{uri: 'http://facebook.github.io/react/img/logo_og.png'}} />
+                          <Image style={IGStyle.logo} source={{uri: 'http://i.infopls.com/images/afghan.gif'}} />
                         </View>
                         <View style={IGStyle.topicTitle}>
                           <Text style={IGStyle.titleText}>{obj.TText}</Text>

@@ -154,7 +154,7 @@ var styles = StyleSheet.create({
     logo: {
         width: 35,
         height: 35,
-        borderRadius: 25
+        borderRadius: 5
     },
 
     arrow: {
