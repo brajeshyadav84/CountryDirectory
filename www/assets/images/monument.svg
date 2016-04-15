@@ -1,0 +1,27 @@
+<svg version="1.1" id="monument" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="81px" height="80px" viewBox="0 0 81 80" enable-background="new 0 0 81 80" xml:space="preserve">
+<polygon id="roof" class="monument--roof" stroke-width="3" stroke-linejoin="round" stroke-miterlimit="10" points="
+	1.5,31.259 79.5,31.259 40.606,1.5 "/>
+<path id="base-2" class="monument--base" d="M79.5,80h-78C0.671,80,0,79.328,0,78.5S0.671,77,1.5,77h78c0.828,0,1.5,0.672,1.5,1.5
+	S80.328,80,79.5,80z"/>
+<path id="base-1" class="monument--base" d="M79.5,72.965h-78c-0.829,0-1.5-0.672-1.5-1.5s0.671-1.5,1.5-1.5h78c0.828,0,1.5,0.672,1.5,1.5
+	S80.328,72.965,79.5,72.965z"/>
+<g id="pilar1">
+	<rect id="pilar1-fill" class="monument--pilar-fill" x="9" y="38" width="9" height="27"/>
+	<path id="pilar1-outline" class="monument--pilar-outline" d="M21.848,63H20V40h1.848c0.829,0,1.5-0.671,1.5-1.5s-0.671-1.5-1.5-1.5H4.891
+		c-0.829,0-1.5,0.671-1.5,1.5s0.671,1.5,1.5,1.5H7v23H4.891c-0.829,0-1.5,0.672-1.5,1.5s0.671,1.5,1.5,1.5h16.957
+		c0.829,0,1.5-0.672,1.5-1.5S22.677,63,21.848,63z M10,40h7v23h-7V40z"/>
+</g>
+<g id="pilar2">
+	<rect id="pilar2-fill" class="monument--pilar-fill" x="36" y="38" width="9" height="27"/>
+	<path id="pilar2-outline" class="monument--pilar-outline" d="M48.979,63H47V40h1.979c0.828,0,1.5-0.671,1.5-1.5s-0.672-1.5-1.5-1.5H32.021
+		c-0.829,0-1.5,0.671-1.5,1.5s0.671,1.5,1.5,1.5H34v23h-1.979c-0.829,0-1.5,0.672-1.5,1.5s0.671,1.5,1.5,1.5h16.957
+		c0.828,0,1.5-0.672,1.5-1.5S49.807,63,48.979,63z M37,40h7v23h-7V40z"/>
+</g>
+<g id="pilar3">
+	<rect id="pilar3-fill" class="monument--pilar-fill" x="63" y="38" width="9" height="27"/>
+	<path id="pilar3-outline" class="monument--pilar-outline" d="M76.109,63H74V40h2.109c0.828,0,1.5-0.671,1.5-1.5s-0.672-1.5-1.5-1.5H59.152
+		c-0.828,0-1.5,0.671-1.5,1.5s0.672,1.5,1.5,1.5H61v23h-1.848c-0.828,0-1.5,0.672-1.5,1.5s0.672,1.5,1.5,1.5h16.957
+		c0.828,0,1.5-0.672,1.5-1.5S76.938,63,76.109,63z M64,40h7v23h-7V40z"/>
+</g>
+</svg>
