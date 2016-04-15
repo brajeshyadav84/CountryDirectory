@@ -102,12 +102,11 @@ var CountryDetail = React.createClass({
 		                          <Text style={IGStyle.titleText}>Government </Text>
 		                        </View>
 		                        <View style={IGStyle.otherLayout}> 
-		                          <Text style={IGStyle.titleText}>Anthem: </Text>
-		                          <Text style={IGStyle.titleText}>India</Text>
+		                          <Text>Government </Text>
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
-		                          <Text style={IGStyle.titleText}>General Information </Text>
+		                          <Text style={IGStyle.titleHeaderText}>General Information </Text>
 		                        </View>
 		                        <View style={IGStyle.generalLayout}> 
 			                          <View style={IGStyle.otherSubLayout}> 
@@ -141,7 +140,7 @@ var CountryDetail = React.createClass({
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
-		                          <Text style={IGStyle.titleText}>Other Information </Text>
+		                          <Text style={IGStyle.titleHeaderText}>Other Information </Text>
 		                        </View>
 		                        <View style={IGStyle.generalLayout}> 
 			                          <View style={IGStyle.otherSubLayout}> 
@@ -159,23 +158,21 @@ var CountryDetail = React.createClass({
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
-		                          <Text style={IGStyle.titleText}>Geography </Text>
+		                          <Text style={IGStyle.titleHeaderText}>Geography </Text>
 		                        </View>
 		                        <View style={IGStyle.otherLayout}> 
-		                          <Text style={IGStyle.titleText}>Anthem: </Text>
-		                          <Text style={IGStyle.titleText}>India</Text>
+		                          <Text>Anthem </Text>
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
-		                          <Text style={IGStyle.titleText}>Best Place To Visit </Text>
+		                          <Text style={IGStyle.titleHeaderText}>Best Place To Visit </Text>
 		                        </View>
 		                        <View style={IGStyle.otherLayout}> 
-		                          <Text style={IGStyle.titleText}>Anthem: </Text>
-		                          <Text style={IGStyle.titleText}>India</Text>
+		                          <Text>Anthem </Text>
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
-		                          <Text style={IGStyle.titleText}>Map </Text>
+		                          <Text style={IGStyle.titleHeaderText}>Map </Text>
 		                        </View>
 		                        <View style={IGStyle.mapLayout}> 
 		                          <Image style={IGStyle.mapImage} source={{uri: 'http://facebook.github.io/react/img/logo_og.png'}} />

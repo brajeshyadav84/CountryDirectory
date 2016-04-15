@@ -95,10 +95,9 @@ var styles = StyleSheet.create({
         height: windowSize.height
     },
     titleText: {
-        // color:'#007AFF',
-        // fontSize: 16,
+        width:110
     },
-    subtitleText: {
+    titleHeaderText: {
         // color:'grey',
         // fontSize: 12,
     },
