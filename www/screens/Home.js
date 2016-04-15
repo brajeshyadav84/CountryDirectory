@@ -24,106 +24,43 @@ var {
 } = React;
 
 var objData = [ 
-                {"TID":"01",
-                "TText":"AngularJS",
-                "TImage":"http://interviewgully.com/html5/images/html5.jpg",
-                "TShortDesc":"Open Source JS Framework",
-                "ContentDetails":[{
-                "CID":"01",
-                "CText":"Introduction to AngularJS ",
-                "CVideoId":"dRrxHgNwR8A"
-                },
                 {
-                "CID":"702",
-                "CText":"More to AngularJS",
-                "CVideoId":"fT4o5Tn84Qo"
-                },
-                {
-                "CID":"601",
-                "CText":"Introduction to AngularJS ",
-                "CVideoId":"dRrxHgNwR8A"
-                },
-                {
-                "CID":"502",
-                "CText":"More to AngularJS",
-                "CVideoId":"fT4o5Tn84Qo"
-                },
-                {
-                "CID":"401",
-                "CText":"Introduction to AngularJS ",
-                "CVideoId":"dRrxHgNwR8A"
-                },
-                {
-                "CID":"302",
-                "CText":"More to AngularJS",
-                "CVideoId":"fT4o5Tn84Qo"
-                },
-                {
-                "CID":"201",
-                "CText":"Introduction to AngularJS ",
-                "CVideoId":"dRrxHgNwR8A"
-                },
-                {
-                "CID":"102",
-                "CText":"More to AngularJS",
-                "CVideoId":"fT4o5Tn84Qo"
-                },
-                {
-                "CID":"801",
-                "CText":"Introduction to AngularJS ",
-                "CVideoId":"dRrxHgNwR8A"
-                },
-                {
-                "CID":"902",
-                "CText":"More to AngularJS",
-                "CVideoId":"fT4o5Tn84Qo"
-                },
-                {
-                "CID":"7801",
-                "CText":"Introduction to AngularJS ",
-                "CVideoId":"dRrxHgNwR8A"
-                },
-                {
-                "CID":"3402",
-                "CText":"More to AngularJS",
-                "CVideoId":"fT4o5Tn84Qo"
-                },
-                {
-                "CID":"1101",
-                "CText":"Introduction to AngularJS ",
-                "CVideoId":"dRrxHgNwR8A"
-                },
-                {
-                "CID":"1202",
-                "CText":"More to AngularJS",
-                "CVideoId":"fT4o5Tn84Qo"
-                },
-                {
-                "CID":"2101",
-                "CText":"Introduction to AngularJS ",
-                "CVideoId":"dRrxHgNwR8A"
-                },
-                {
-                "CID":"2102",
-                "CText":"brajesh More to AngularJS",
-                "CVideoId":"fT4o5Tn84Qo"
-                }]
-                },
-                {"TID":"02",
-                "TText":"ReactJS",
-                "TImage":"http://interviewgully.com/html5/images/html5.jpg",
-                "TShortDesc":"Open Source JS Framework",
-                "ContentDetails":[{
-                "CID":"01",
-                "CText":"Introduction to ReactJS",
-                "CVideoId":"dRrxHgNwR8A"
-                },
-                {
-                "CID":"02",
-                "CText":"More to ReactJS",
-                "CVideoId":"fT4o5Tn84Qo"
-                }]
-                }  
+                  "id": "C1",
+                  "Flag" : "http://i.infopls.com/images/afghan.gif",
+                  "Seal": {
+                    "Title" : "Coat of arms",
+                    "Image" : "https://upload.wikimedia.org/wikipedia/commons/c/c7/National_Emblem_of_Afghanistan_03.png"
+                  },
+                  "CallingCode" : "+93",
+                  "CountryCode" : "AF",
+                  "CountryName" : "Afghanistan",
+                  "Anthem" : "",
+                  "Motto" : "لا إله إلا الله، محمد رسول الله Lā ʾilāha ʾillāl–lāh, Muhammadun rasūl allāh There is no god but God; Muhammad is the messenger of God. (Shahada)",
+                  "GeneralInfo" : {
+                    "Capital" : "Kabul",
+                    "Area" : "250,000 sq mi (647,500 sq km)",
+                    "Population" : "31,822,848 (growth rate: 2.3%)",
+                    "Language": "Pashto Dari",
+                    "Currency" : "Afghani",
+                    "InternetTLD" : ".af افغانستان.",
+                    "TimeZone" : "D† (UTC+4:30 Solar Calendar)"
+                  },
+                  "Government": [{
+                    "Title": "President",
+                    "Name": "Ashraf Ghani"
+                  },
+                  {
+                    "Title": "Chief Executive Officer",
+                    "Name": "Abdullah Abdullah"
+                  }
+                  ],
+                  "DateFormat" : "",
+                  "CurrentTime": "",
+                  "Temperature" : "",
+                  "BestPlaceToVisit": "",
+                  "Map" : "http://i.infopls.com/images/mafghan.gif",
+                  "Geography" : ""
+                }
               ];
 
 var Home = React.createClass ({
@@ -153,13 +90,13 @@ var Home = React.createClass ({
       var that = this;
       var titles = objData.map(function(obj) {
         return (
-              <TouchableOpacity key={obj.TID} onPress={() => that.nextScreen('CountryDetail',obj)}>
+              <TouchableOpacity key={obj.id} onPress={() => that.nextScreen('CountryDetail',obj)}>
                     <View style={IGStyle.cardTitleLayout}>
                         <View style={IGStyle.imageLogo}>
-                          <Image style={IGStyle.logo} source={{uri: 'http://i.infopls.com/images/afghan.gif'}} />
+                          <Image style={IGStyle.logo} source={{uri: obj.Flag}} />
                         </View>
                         <View style={IGStyle.topicTitle}>
-                          <Text>{obj.TText}</Text>
+                          <Text>{obj.CountryName}</Text>
                         </View>
                         <View style={IGStyle.arrowImage}>
                           <Image style={IGStyle.arrow} source={{uri: 'http://www.clker.com/cliparts/V/1/Z/A/h/U/left-arrow-right-md.png'}} />

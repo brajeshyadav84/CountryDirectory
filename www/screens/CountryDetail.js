@@ -54,48 +54,48 @@ var CountryDetail = React.createClass({
 	componentDidMount: function(){
 		var that = this;
 		that.setState({
-			contentList : that.props.menuContentList.ContentDetails
+			contentList : that.props.menuContentList
 		});
 		console.log("that.props.menuContentList");console.log(that.props.menuContentList);
 	},
 
 	render: function(){
 	 	var that = this;
-	 	var contentList = that.props.menuContentList.ContentDetails;
-	 	var header = that.props.menuContentList.TText;
+	 	var contentList = that.props.menuContentList;
+	 	var header = contentList.CountryName;
 		return (
 			<View style={IGStyle.bgGrey}>
 				<HeaderTabComponent headerContent={header} preScreen={() => that.preScreen()} isShow='true'/>
 						<ScrollView contentContainerStyle={IGStyle.stage, IGStyle.scrollView} >
 				          	<View style={IGStyle.cardTitleMenuLayout}>
 		                        <View style={IGStyle.flagLayout}>
-		                          <Image style={IGStyle.countryImage} source={{uri: 'http://i.infopls.com/images/afghan.gif'}} />
-		                          <Image style={IGStyle.countryImage} source={{uri: 'http://i.infopls.com/images/afghan.gif'}} />
+		                          <Image style={IGStyle.countryImage} source={{uri: contentList.Flag}} />
+		                          <Image style={IGStyle.countryImage} source={{uri: contentList.Seal.Image}} />
 		                        </View>
 		                        <View style={IGStyle.flagTextLayout}>
 		                          <Text style={IGStyle.titleText}>Country Flag </Text>
-			                      <Text style={IGStyle.titleText}>Country Sign</Text>
+			                      <Text style={IGStyle.titleText}>{contentList.Seal.Title}</Text>
 		                        </View>
 		                        <View style={IGStyle.generalLayout}>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Country Name: </Text>
-			                          <Text>India</Text>
+			                          <Text>{contentList.CountryName}</Text>
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Country Code: </Text>
-			                          <Text>India</Text>
+			                          <Text>{contentList.CountryCode}</Text>
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Calling Code: </Text>
-			                          <Text>India</Text>
+			                          <Text>{contentList.CallingCode}</Text>
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Motto: </Text>
-			                          <Text>India</Text>
+			                          <Text style={IGStyle.titleSubText}>{contentList.Motto}</Text>
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Anthem: </Text>
-			                          <Text>India</Text>
+			                          <Text></Text>
 			                        </View>
 		                        </View>
 
@@ -112,31 +112,31 @@ var CountryDetail = React.createClass({
 		                        <View style={IGStyle.generalLayout}> 
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Capital: </Text>
-				                          <Text>India</Text>
+				                          <Text>{contentList.GeneralInfo.Capital}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Area: </Text>
-				                          <Text>India</Text>
+				                          <Text>{contentList.GeneralInfo.Area}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Population: </Text>
-				                          <Text>India</Text>
+				                          <Text>{contentList.GeneralInfo.Population}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Language: </Text>
-				                          <Text>India</Text>
+				                          <Text>{contentList.GeneralInfo.Language}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Currency: </Text>
-				                          <Text>India</Text>
+				                          <Text>{contentList.GeneralInfo.Currency}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>InternetTLD: </Text>
-				                          <Text>India</Text>
+				                          <Text>{contentList.GeneralInfo.InternetTLD}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>TimeZone: </Text>
-				                          <Text>India</Text>
+				                          <Text>{contentList.GeneralInfo.TimeZone}</Text>
 			                          </View>
 		                        </View>
 
@@ -146,15 +146,15 @@ var CountryDetail = React.createClass({
 		                        <View style={IGStyle.generalLayout}> 
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>DateFormat: </Text>
-				                          <Text>India</Text>
+				                          <Text>{contentList.DateFormat}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>CurrentTime: </Text>
-				                          <Text>India</Text>
+				                          <Text>{contentList.CurrentTime}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Temperature: </Text>
-				                          <Text>India</Text>
+				                          <Text>{contentList.Temperature}</Text>
 			                          </View>
 		                        </View>
 
@@ -176,7 +176,7 @@ var CountryDetail = React.createClass({
 		                          <Text style={IGStyle.titleHeaderText}>Map </Text>
 		                        </View>
 		                        <View style={IGStyle.mapLayout}> 
-		                          <Image style={IGStyle.mapImage} source={{uri: 'http://i.infopls.com/images/mafghan.gif'}} />
+		                          <Image style={IGStyle.mapImage} source={{uri: contentList.Map}} />
 		                        </View>
 
 		                    </View>

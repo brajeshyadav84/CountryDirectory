@@ -64,6 +64,9 @@ var styles = StyleSheet.create({
         backgroundColor: 'grey',
         paddingLeft: 10
     },
+    titleSubText: {
+        flexWrap: 'wrap'
+    },
     cardLayout: {
         // flex: 1, 
         // alignItems: 'center', 
