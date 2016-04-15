@@ -159,7 +159,7 @@ var Home = React.createClass ({
                           <Image style={IGStyle.logo} source={{uri: 'http://i.infopls.com/images/afghan.gif'}} />
                         </View>
                         <View style={IGStyle.topicTitle}>
-                          <Text style={IGStyle.titleText}>{obj.TText}</Text>
+                          <Text>{obj.TText}</Text>
                         </View>
                         <View style={IGStyle.arrowImage}>
                           <Image style={IGStyle.arrow} source={{uri: 'http://www.clker.com/cliparts/V/1/Z/A/h/U/left-arrow-right-md.png'}} />

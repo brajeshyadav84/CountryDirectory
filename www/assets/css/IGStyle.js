@@ -10,7 +10,7 @@ var {
 
 var styles = StyleSheet.create({
     hidden:{
-        
+
     },
     mainContainer: {
         flex: 1
@@ -98,7 +98,8 @@ var styles = StyleSheet.create({
         height: windowSize.height
     },
     titleText: {
-        width:110
+        width:110,
+        fontWeight: 'bold'
     },
     titleHeaderText: {
         // color:'grey',

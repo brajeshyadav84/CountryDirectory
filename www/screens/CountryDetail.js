@@ -79,28 +79,28 @@ var CountryDetail = React.createClass({
 		                        <View style={IGStyle.generalLayout}>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Country Name: </Text>
-			                          <Text style={IGStyle.titleText}>India</Text>
+			                          <Text>India</Text>
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Country Code: </Text>
-			                          <Text style={IGStyle.titleText}>IN</Text>
+			                          <Text>India</Text>
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Calling Code: </Text>
-			                          <Text style={IGStyle.titleText}>India</Text>
+			                          <Text>India</Text>
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Motto: </Text>
-			                          <Text style={IGStyle.titleText}>India</Text>
+			                          <Text>India</Text>
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Anthem: </Text>
-			                          <Text style={IGStyle.titleText}>India</Text>
+			                          <Text>India</Text>
 			                        </View>
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
-		                          <Text style={IGStyle.titleText}>Government </Text>
+		                          <Text style={IGStyle.titleHeaderText}>Government </Text>
 		                        </View>
 		                        <View style={IGStyle.otherLayout}> 
 		                          <Text>Government </Text>
@@ -112,31 +112,31 @@ var CountryDetail = React.createClass({
 		                        <View style={IGStyle.generalLayout}> 
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Capital: </Text>
-				                          <Text style={IGStyle.titleText}>India</Text>
+				                          <Text>India</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Area: </Text>
-				                          <Text style={IGStyle.titleText}>India</Text>
+				                          <Text>India</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Population: </Text>
-				                          <Text style={IGStyle.titleText}>India</Text>
+				                          <Text>India</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Language: </Text>
-				                          <Text style={IGStyle.titleText}>India</Text>
+				                          <Text>India</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Currency: </Text>
-				                          <Text style={IGStyle.titleText}>India</Text>
+				                          <Text>India</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>InternetTLD: </Text>
-				                          <Text style={IGStyle.titleText}>India</Text>
+				                          <Text>India</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>TimeZone: </Text>
-				                          <Text style={IGStyle.titleText}>India</Text>
+				                          <Text>India</Text>
 			                          </View>
 		                        </View>
 
@@ -146,15 +146,15 @@ var CountryDetail = React.createClass({
 		                        <View style={IGStyle.generalLayout}> 
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>DateFormat: </Text>
-				                          <Text style={IGStyle.titleText}>India</Text>
+				                          <Text>India</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>CurrentTime: </Text>
-				                          <Text style={IGStyle.titleText}>India</Text>
+				                          <Text>India</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Temperature: </Text>
-				                          <Text style={IGStyle.titleText}>India</Text>
+				                          <Text>India</Text>
 			                          </View>
 		                        </View>
 
