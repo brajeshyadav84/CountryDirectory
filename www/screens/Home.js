@@ -171,7 +171,7 @@ var Home = React.createClass ({
 
       return (
             <View style={IGStyle.mainContainer, IGStyle.bgGrey}>
-                  <HeaderTabComponent headerContent='Country of the world' preScreen={() => that.preScreen()} />
+                  <HeaderTabComponent headerContent='Country of the world' preScreen={() => that.preScreen()} isShow='false'/>
                   <View style={IGStyle.subContainer}>
                       {titles}
                   </View>

@@ -65,7 +65,7 @@ var CountryDetail = React.createClass({
 	 	var header = that.props.menuContentList.TText;
 		return (
 			<View style={IGStyle.bgGrey}>
-				<HeaderTabComponent headerContent={header} preScreen={() => that.preScreen()} />
+				<HeaderTabComponent headerContent={header} preScreen={() => that.preScreen()} isShow='true'/>
 						<ScrollView contentContainerStyle={IGStyle.stage, IGStyle.scrollView} >
 				          	<View style={IGStyle.cardTitleMenuLayout}>
 		                        <View style={IGStyle.flagLayout}>

@@ -32,6 +32,10 @@ var HeaderTabComponent = React.createClass ({
 
   render: function() {
       var that = this;
+      if(that.props.isShow == "true"){
+        
+      }
+
       return (
         <View style={IGStyle.header}>
             <View style={IGStyle.leftSubHeader}>

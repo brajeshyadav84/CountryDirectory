@@ -9,6 +9,9 @@ var {
 } = React;
 
 var styles = StyleSheet.create({
+    hidden:{
+        
+    },
     mainContainer: {
         flex: 1
     },
