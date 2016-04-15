@@ -42,7 +42,7 @@ var styles = StyleSheet.create({
         flex:1,
         flexDirection: 'row',
         height: 30,
-        paddingTop:5,
+        paddingTop:10,
         backgroundColor: 'grey',
         paddingLeft: 10
     },
@@ -67,7 +67,7 @@ var styles = StyleSheet.create({
     cardTitleMenuLayout: {
         marginTop:5,
         backgroundColor: 'white',
-        // height: 1200,
+        height: 800,
         width: windowSize.width,
         
         
