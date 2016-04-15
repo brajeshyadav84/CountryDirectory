@@ -51,7 +51,7 @@ var styles = StyleSheet.create({
         flex:1,
         flexDirection: 'row',
         height: 30,
-        paddingTop:10,
+        paddingTop:5,
         backgroundColor: 'grey',
         paddingLeft: 10
     },
