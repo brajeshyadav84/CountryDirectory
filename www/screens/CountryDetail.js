@@ -177,9 +177,8 @@ var CountryDetail = React.createClass({
 		                        <View style={IGStyle.subHeaderLayout}> 
 		                          <Text style={IGStyle.titleText}>Map </Text>
 		                        </View>
-		                        <View style={IGStyle.otherLayout}> 
-		                          <Text style={IGStyle.titleText}>Anthem: </Text>
-		                          <Text style={IGStyle.titleText}>India</Text>
+		                        <View style={IGStyle.mapLayout}> 
+		                          <Image style={IGStyle.mapImage} source={{uri: 'http://facebook.github.io/react/img/logo_og.png'}} />
 		                        </View>
 
 		                    </View>

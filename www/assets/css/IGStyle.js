@@ -44,6 +44,12 @@ var styles = StyleSheet.create({
         flex:1,
         flexDirection: 'row',
     },
+    mapLayout:{
+        flex:1,
+        flexDirection: 'row',
+        paddingTop:10,
+        height:200
+    },
     generalLayout:{
         padding:10
     },
@@ -142,7 +148,10 @@ var styles = StyleSheet.create({
         width: 150,
         height: 100
     },
-
+    mapImage: {
+        width: windowSize.width,
+        height: 300
+    },
     logo: {
         width: 35,
         height: 35,
