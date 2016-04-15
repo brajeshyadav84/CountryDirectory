@@ -67,38 +67,95 @@ var CountryDetail = React.createClass({
 				<HeaderTabComponent headerContent='interviewgully' preScreen={() => that.preScreen()} />
 						<ScrollView contentContainerStyle={IGStyle.stage, IGStyle.scrollView} >
 				          	<View style={IGStyle.cardTitleMenuLayout}>
-		                        <View>
+		                        <View style={IGStyle.flagLayout}>
+		                          <Text style={IGStyle.titleText}>testing</Text>
 		                          <Text style={IGStyle.titleText}>testing</Text>
 		                        </View>
-		                        <View>
-		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        <View style={IGStyle.generalLayout}>
+			                        <View style={IGStyle.otherSubLayout}> 
+			                          <Text style={IGStyle.titleText}>Country Name: </Text>
+			                          <Text style={IGStyle.titleText}>India</Text>
+			                        </View>
+			                        <View style={IGStyle.otherSubLayout}> 
+			                          <Text style={IGStyle.titleText}>Country Code: </Text>
+			                          <Text style={IGStyle.titleText}>IN</Text>
+			                        </View>
+			                        <View style={IGStyle.otherSubLayout}> 
+			                          <Text style={IGStyle.titleText}>Calling Code: </Text>
+			                          <Text style={IGStyle.titleText}>India</Text>
+			                        </View>
+			                        <View style={IGStyle.otherSubLayout}> 
+			                          <Text style={IGStyle.titleText}>Motto: </Text>
+			                          <Text style={IGStyle.titleText}>India</Text>
+			                        </View>
+			                        <View style={IGStyle.otherSubLayout}> 
+			                          <Text style={IGStyle.titleText}>Anthem: </Text>
+			                          <Text style={IGStyle.titleText}>India</Text>
+			                        </View>
 		                        </View>
-		                        <View>
-		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        <View style={IGStyle.subHeaderLayout}> 
+		                          <Text style={IGStyle.titleText}>Government </Text>
 		                        </View>
-		                        <View>
-		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        <View style={IGStyle.otherLayout}> 
+		                          <Text style={IGStyle.titleText}>Anthem: </Text>
+		                          <Text style={IGStyle.titleText}>India</Text>
 		                        </View>
-		                        <View>
-		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        <View style={IGStyle.subHeaderLayout}> 
+		                          <Text style={IGStyle.titleText}>General Information </Text>
 		                        </View>
-		                        <View>
-		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        <View style={IGStyle.generalLayout}> 
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>Capital: </Text>
+				                          <Text style={IGStyle.titleText}>India</Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>Area: </Text>
+				                          <Text style={IGStyle.titleText}>India</Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>Population: </Text>
+				                          <Text style={IGStyle.titleText}>India</Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>Language: </Text>
+				                          <Text style={IGStyle.titleText}>India</Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>Currency: </Text>
+				                          <Text style={IGStyle.titleText}>India</Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>InternetTLD: </Text>
+				                          <Text style={IGStyle.titleText}>India</Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>TimeZone: </Text>
+				                          <Text style={IGStyle.titleText}>India</Text>
+			                          </View>
 		                        </View>
-		                        <View>
-		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        <View style={IGStyle.subHeaderLayout}> 
+		                          <Text style={IGStyle.titleText}>Other Information </Text>
 		                        </View>
-		                        <View>
-		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        <View style={IGStyle.generalLayout}> 
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>DateFormat: </Text>
+				                          <Text style={IGStyle.titleText}>India</Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>CurrentTime: </Text>
+				                          <Text style={IGStyle.titleText}>India</Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>Temperature: </Text>
+				                          <Text style={IGStyle.titleText}>India</Text>
+			                          </View>
 		                        </View>
-		                        <View>
-		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        <View style={IGStyle.subHeaderLayout}> 
+		                          <Text style={IGStyle.titleText}>Best Place To Visit </Text>
 		                        </View>
-		                        <View>
-		                          <Text style={IGStyle.titleText}>testing</Text>
-		                        </View>
-		                        <View>
-		                          <Text style={IGStyle.titleText}>testing</Text>
+		                        <View style={IGStyle.otherLayout}> 
+		                          <Text style={IGStyle.titleText}>Anthem: </Text>
+		                          <Text style={IGStyle.titleText}>India</Text>
 		                        </View>
 		                    </View>
 		                    

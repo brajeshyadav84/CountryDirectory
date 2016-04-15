@@ -20,6 +20,32 @@ var styles = StyleSheet.create({
         flex: 1,
         marginTop: 0,
     },
+    flagLayout:{
+        flex:1,
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        padding:10
+    },
+    otherLayout:{
+        flex:1,
+        flexDirection: 'row',
+        padding:10
+    },
+    otherSubLayout:{
+        flex:1,
+        flexDirection: 'row',
+    },
+    generalLayout:{
+        padding:10
+    },
+    subHeaderLayout:{
+        flex:1,
+        flexDirection: 'row',
+        height: 30,
+        paddingTop:5,
+        backgroundColor: 'grey',
+        paddingLeft: 10
+    },
     cardLayout: {
         // flex: 1, 
         // alignItems: 'center', 
@@ -41,9 +67,9 @@ var styles = StyleSheet.create({
     cardTitleMenuLayout: {
         marginTop:5,
         backgroundColor: 'white',
-        height: 1200,
+        // height: 1200,
         width: windowSize.width,
-        padding:10
+        
         
     },
     imageBG: {

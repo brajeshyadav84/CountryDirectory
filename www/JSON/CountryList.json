@@ -7,6 +7,7 @@
 			"Title" : "",
 			"Image" : ""
 		},
+		"CallingCode" : "",
 		"CountryCode" : "",
 		"CountryName" : "",
 		"Anthem" : "",
@@ -17,7 +18,6 @@
 			"Population" : "",
 			"Language": "",
 			"Currency" : "",
-			"CallingCode" : "",
 			"InternetTLD" : "",
 			"TimeZone" : ""
 		},
