@@ -65,7 +65,12 @@ var styles = StyleSheet.create({
         paddingLeft: 10
     },
     titleSubText: {
-        flexWrap: 'wrap'
+        flexWrap: 'wrap',
+        width: windowSize.width- 130
+    },
+    fullText:{
+        flexWrap: 'wrap',
+        width: windowSize.width- 20
     },
     cardLayout: {
         // flex: 1, 
