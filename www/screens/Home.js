@@ -109,6 +109,8 @@ var Home = React.createClass ({
     }
   },
 
+  origionalCollection: [],
+
   setTab: function(tabValue){
       this.setState({selectedTab: tabValue});
   },
@@ -130,12 +132,17 @@ var Home = React.createClass ({
       that.setState({
         colCountry: objData
       });
+      that.origionalCollection = objData;
   },
 
   searchByCountry: function(text){
     var that = this;
     var filterData = [];
-        filterData.push(_lodash.find(this.state.colCountry, ["CountryName", "India"]));
+    if(text == ""){
+      filterData = that.origionalCollection;
+    } else {
+      filterData.push(_lodash.find(this.state.colCountry, ["CountryName", "India"]));
+    }
     that.setState({
         colCountry: filterData
     });
