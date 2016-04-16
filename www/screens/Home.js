@@ -132,11 +132,10 @@ var Home = React.createClass ({
       });
   },
 
-  searchByCountry: function(){
+  searchByCountry: function(text){
     var that = this;
-    var filterData = _lodash.find(this.state.colCountry, ['CountryName', "India"]);
-    console.log(filterData);
-    console.log("search Country");
+    var filterData = [];
+        filterData.push(_lodash.find(this.state.colCountry, ["CountryName", "India"]));
     that.setState({
         colCountry: filterData
     });
@@ -168,7 +167,7 @@ var Home = React.createClass ({
                   <HeaderTabComponent headerContent='Country of the world' preScreen={() => that.preScreen()} isShow='false'/>
                   
                   <View>
-                      <TextInput style={IGStyle.searchBar} placeholder="Search Country" onChangeText={() => that.searchByCountry()}/>
+                      <TextInput style={IGStyle.searchBar} placeholder="Search Country" onChangeText={(text) => that.searchByCountry(text)}/>
                   </View>
                   <View style={IGStyle.subContainer}>
                       {titles}
