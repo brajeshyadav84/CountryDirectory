@@ -16,7 +16,8 @@ var {
 	Image,
 	TouchableOpacity,
 	TabBarIOS,
-	TouchableHighlight
+	TouchableHighlight,
+	Linking
 } = React;
 
 var CountryDetail = React.createClass({
@@ -24,7 +25,8 @@ var CountryDetail = React.createClass({
 	    return {
 	      selectedTab: 'Menu',
 	      dateTimeValue: '',
-	      weatherData: []
+	      weatherData: [],
+	      url: ''
 	    }
 	},
 
@@ -55,7 +57,8 @@ var CountryDetail = React.createClass({
 	componentDidMount: function(){
 		var that = this;
 		that.setState({
-			contentList : that.props.menuContentList
+			contentList : that.props.menuContentList,
+			url: that.props.menuContentList.Anthem
 		});
 		that.getCurrentTime();
 		that.getWeather();
@@ -148,6 +151,18 @@ var CountryDetail = React.createClass({
 		});
 	},
 
+	openbrowser: function() {
+		var that = this;
+		var url = that.state.url;
+		Linking.canOpenURL(url).then(supported => {
+		  if (!supported) {
+		    console.log('Can\'t handle url: ' + url);
+		  } else {
+		    return Linking.openURL(url);
+		  }
+		}).catch(err => console.error('An error occurred', err));
+	},
+
 	render: function(){
 	 	var that = this;
 	 	var contentList = that.props.menuContentList;
@@ -195,7 +210,9 @@ var CountryDetail = React.createClass({
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Anthem: </Text>
-			                          <Text></Text>
+			                          <TouchableOpacity key="1" onPress={() => that.openbrowser()}>
+			                          	<Text style={IGStyle.linkText}>Click Here</Text>
+			                          </TouchableOpacity>
 			                        </View>
 		                        </View>
 

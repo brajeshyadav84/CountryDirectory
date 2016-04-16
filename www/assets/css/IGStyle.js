@@ -56,6 +56,9 @@ var styles = StyleSheet.create({
     generalLayout:{
         padding:10
     },
+    linkText: {
+        color: '#0072C6'
+    },
     subHeaderLayout:{
         // flex:1,
         // flexDirection: 'row',
