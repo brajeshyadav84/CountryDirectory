@@ -58,6 +58,53 @@ var CountryDetail = React.createClass({
 		});
 	},
 
+	DateConverter: function (UNIX_timestamp) {
+        var colMonth = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+        var d = new Date(UNIX_timestamp);
+        var monthName = colMonth[d.getMonth()];
+        var getDay = d.getDate();
+        var getYear  = d.getFullYear();
+        var timeValue = this.timeConverter(UNIX_timestamp);
+        var result = getDay+"/"+monthName+"/"+getYear+" "+ timeValue;
+        return result;
+    },
+
+
+    timeConverter: function (UNIX_timestamp) {
+        var a = new Date(UNIX_timestamp * 1000);
+        var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+        var year = a.getFullYear();
+        var month = months[a.getMonth()];
+        var date = a.getDate();
+        var hour = a.getHours();
+        var min = a.getMinutes();
+        var sec = a.getSeconds();
+        var time = hour + ':' + min;
+        return this.tConvert(time);
+    },
+
+    tConvert: function (time) {
+
+        var hours = time.split(":")[0];
+        var minutes = time.split(":")[1];
+        var ampm = hours >= 12 ? ' PM' : ' AM';
+        hours = hours % 12;
+        hours = hours ? hours : 12; // the hour '0' should be '12'
+        minutes = minutes < 10 ? '' + minutes : minutes;
+        minutes = (minutes === "0") ? '0' + minutes : minutes;
+        var strTime = hours + ':' + minutes + ' ' + ampm;
+        return strTime;
+    },
+
+
+	getCurrentTime: function(){
+		var that = this;
+		//http://timezonedb.com/time-zones
+		//http://api.timezonedb.com/?zone=Asia/Singapore&key=CO6L1T6M8DY5
+		var dateValue = that.DateConverter();
+		return dateValue;
+	},
+
 	render: function(){
 	 	var that = this;
 	 	var contentList = that.props.menuContentList;
