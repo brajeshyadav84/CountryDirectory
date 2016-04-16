@@ -141,12 +141,19 @@ var Home = React.createClass ({
     if(text == ""){
       filterData = that.origionalCollection;
     } else {
-      filterData.push(_lodash.find(this.state.colCountry, ["CountryName", "India"]));
+      _lodash.find(that.origionalCollection, function(item){
+        var itemValue = item.CountryName.toLowerCase();
+        if(itemValue.indexOf(text.toLowerCase()) >= 0){
+          filterData.push(item);
+        }
+      });
     }
     that.setState({
         colCountry: filterData
     });
   },
+
+
 
   render: function() {
       var that = this;
