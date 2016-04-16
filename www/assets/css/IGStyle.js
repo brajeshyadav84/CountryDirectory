@@ -72,6 +72,12 @@ var styles = StyleSheet.create({
         flexWrap: 'wrap',
         width: windowSize.width- 20
     },
+    searchBar:{
+        height: 40, 
+        borderRadius: 5, 
+        padding: 10,
+        backgroundColor: 'white',
+    },
     cardLayout: {
         // flex: 1, 
         // alignItems: 'center', 

@@ -109,6 +109,10 @@ var Home = React.createClass ({
       return (
             <View style={IGStyle.mainContainer, IGStyle.bgGrey}>
                   <HeaderTabComponent headerContent='Country of the world' preScreen={() => that.preScreen()} isShow='false'/>
+                  
+                  <View>
+                      <TextInput style={IGStyle.searchBar} placeholder="Search Country" />
+                  </View>
                   <View style={IGStyle.subContainer}>
                       {titles}
                   </View>
