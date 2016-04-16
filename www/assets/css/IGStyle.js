@@ -24,23 +24,23 @@ var styles = StyleSheet.create({
         marginTop: 0,
     },
     flagLayout:{
-        flex:1,
+        // flex:1,
         flexDirection: 'row',
         justifyContent: 'space-between',
         padding:10,
-        height:150
+        // height:150
     },
     flagTextLayout:{
-        flex:1,
+        // flex:1,
         flexDirection: 'row',
         justifyContent: 'space-between',
-        paddingTop:80,
+        // paddingTop:10,
         paddingLeft:40,
         paddingRight:40
     },
     otherLayout:{
-        flex:1,
-        flexDirection: 'row',
+        // flex:1,
+        // flexDirection: 'row',
         padding:10
     },
     otherSubLayout:{
@@ -48,8 +48,8 @@ var styles = StyleSheet.create({
         flexDirection: 'row',
     },
     mapLayout:{
-        flex:1,
-        flexDirection: 'row',
+        // flex:1,
+        // flexDirection: 'row',
         paddingTop:10,
         height:200
     },
@@ -57,10 +57,10 @@ var styles = StyleSheet.create({
         padding:10
     },
     subHeaderLayout:{
-        flex:1,
-        flexDirection: 'row',
-        // height: 40,
-        // paddingTop:5,
+        // flex:1,
+        // flexDirection: 'row',
+        height: 30,
+        paddingTop:5,
         backgroundColor: 'grey',
         paddingLeft: 10
     },
@@ -99,7 +99,7 @@ var styles = StyleSheet.create({
     cardTitleMenuLayout: {
         marginTop:5,
         backgroundColor: 'white',
-        height: 800,
+        height: 1500,
         width: windowSize.width,
         
         
@@ -151,7 +151,7 @@ var styles = StyleSheet.create({
         flex: 1
     },
     scrollView: {
-      height: 1200,
+      height: 1500,
     },
     topicTitle: {
         flex:1 ,
