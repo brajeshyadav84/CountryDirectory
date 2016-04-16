@@ -67,6 +67,7 @@ var Home = React.createClass ({
   getInitialState: function () {
     return {
       selectedTab: 'Home',
+      colCountry: []
     }
   },
 
@@ -84,6 +85,10 @@ var Home = React.createClass ({
       name: screenName,
       passProps: details
     });
+  },
+
+  searchByCountry: function(){
+    console.log("search Country");
   },
 
   render: function() {
@@ -111,7 +116,7 @@ var Home = React.createClass ({
                   <HeaderTabComponent headerContent='Country of the world' preScreen={() => that.preScreen()} isShow='false'/>
                   
                   <View>
-                      <TextInput style={IGStyle.searchBar} placeholder="Search Country" />
+                      <TextInput style={IGStyle.searchBar} placeholder="Search Country" onChangeText={() => that.searchByCountry()}/>
                   </View>
                   <View style={IGStyle.subContainer}>
                       {titles}
