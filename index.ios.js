@@ -4,6 +4,7 @@
  */
 
 var React = require('react-native'),
+    _lodash = require('lodash'),
     Home  = require('./www/screens/Home'),
     CountryDetail = require('./www/screens/CountryDetail');
 

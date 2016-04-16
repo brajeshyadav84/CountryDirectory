@@ -5,6 +5,7 @@ var React = require('react-native'),
     Dimensions = require('Dimensions'),
     windowSize = Dimensions.get('window'),
     IGStyle = require('../assets/css/IGStyle'),
+    _lodash = require('lodash'),
     HeaderTabComponent = require('../component/HeaderTabComponent');
 
 
@@ -34,6 +35,43 @@ var objData = [
                   "CallingCode" : "+93",
                   "CountryCode" : "AF",
                   "CountryName" : "Afghanistan",
+                  "Anthem" : "",
+                  "Motto" : "لا إله إلا الله، محمد رسول الله Lā ʾilāha ʾillāl–lāh, Muhammadun rasūl allāh There is no god but God; Muhammad is the messenger of God. (Shahada)",
+                  "GeneralInfo" : {
+                    "Capital" : "Kabul",
+                    "Area" : "250,000 sq mi (647,500 sq km)",
+                    "Population" : "31,822,848 (growth rate: 2.3%)",
+                    "Language": "Pashto Dari",
+                    "Currency" : "Afghani",
+                    "InternetTLD" : ".af افغانستان.",
+                    "TimeZone" : "D† (UTC+4:30 Solar Calendar)"
+                  },
+                  "Government": [{
+                    "Title": "President",
+                    "Name": "Ashraf Ghani"
+                  },
+                  {
+                    "Title": "Chief Executive Officer",
+                    "Name": "Abdullah Abdullah"
+                  }
+                  ],
+                  "DateFormat" : "",
+                  "CurrentTime": "",
+                  "Temperature" : "",
+                  "BestPlaceToVisit": "",
+                  "Map" : "http://i.infopls.com/images/mafghan.gif",
+                  "Geography" : ""
+                },
+                {
+                  "id": "C2",
+                  "Flag" : "http://i.infopls.com/images/afghan.gif",
+                  "Seal": {
+                    "Title" : "Coat of arms",
+                    "Image" : "https://upload.wikimedia.org/wikipedia/commons/c/c7/National_Emblem_of_Afghanistan_03.png"
+                  },
+                  "CallingCode" : "+93",
+                  "CountryCode" : "IN",
+                  "CountryName" : "India",
                   "Anthem" : "",
                   "Motto" : "لا إله إلا الله، محمد رسول الله Lā ʾilāha ʾillāl–lāh, Muhammadun rasūl allāh There is no god but God; Muhammad is the messenger of God. (Shahada)",
                   "GeneralInfo" : {
@@ -91,11 +129,17 @@ var Home = React.createClass ({
       var that = this;
       that.setState({
         colCountry: objData
-      })
+      });
   },
 
   searchByCountry: function(){
+    var that = this;
+    var filterData = _lodash.find(this.state.colCountry, ['CountryName', "India"]);
+    console.log(filterData);
     console.log("search Country");
+    that.setState({
+        colCountry: filterData
+    });
   },
 
   render: function() {

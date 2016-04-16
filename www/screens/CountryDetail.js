@@ -56,7 +56,6 @@ var CountryDetail = React.createClass({
 		that.setState({
 			contentList : that.props.menuContentList
 		});
-		console.log("that.props.menuContentList");console.log(that.props.menuContentList);
 	},
 
 	render: function(){
