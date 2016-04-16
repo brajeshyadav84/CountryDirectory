@@ -87,13 +87,21 @@ var Home = React.createClass ({
     });
   },
 
+  componentDidMount: function(){
+      var that = this;
+      that.setState({
+        colCountry: objData
+      })
+  },
+
   searchByCountry: function(){
     console.log("search Country");
   },
 
   render: function() {
       var that = this;
-      var titles = objData.map(function(obj) {
+      var colData = that.state.colCountry;
+      var titles = colData.map(function(obj) {
         return (
               <TouchableOpacity key={obj.id} onPress={() => that.nextScreen('CountryDetail',obj)}>
                     <View style={IGStyle.cardTitleLayout}>
