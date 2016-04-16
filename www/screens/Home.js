@@ -72,7 +72,7 @@ var objData = [
                   "CallingCode" : "+93",
                   "CountryCode" : "IN",
                   "CountryName" : "India",
-                  "Anthem" : "",
+                  "Anthem" : "http://127.0.0.1:53946/afganistan.mp3",
                   "Motto" : "لا إله إلا الله، محمد رسول الله Lā ʾilāha ʾillāl–lāh, Muhammadun rasūl allāh There is no god but God; Muhammad is the messenger of God. (Shahada)",
                   "GeneralInfo" : {
                     "Capital" : "Kabul",
