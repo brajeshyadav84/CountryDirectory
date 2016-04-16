@@ -238,12 +238,6 @@ var CountryDetail = React.createClass({
 				                          <Text style={IGStyle.titleText}>TimeZone: </Text>
 				                          <Text>{contentList.GeneralInfo.TimeZone}</Text>
 			                          </View>
-		                        </View>
-
-		                        <View style={IGStyle.subHeaderLayout}> 
-		                          <Text style={IGStyle.titleHeaderText}>Other Information </Text>
-		                        </View>
-		                        <View style={IGStyle.generalLayout}> 
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>DateFormat: </Text>
 				                          <Text>{contentList.DateFormat}</Text>
@@ -251,10 +245,6 @@ var CountryDetail = React.createClass({
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>CurrentTime: </Text>
 				                          <Text>{that.state.dateTimeValue}</Text>
-			                          </View>
-			                          <View style={IGStyle.otherSubLayout}> 
-				                          <Text style={IGStyle.titleText}>Temperature: </Text>
-				                          <Text>{contentList.Temperature}</Text>
 			                          </View>
 		                        </View>
 
