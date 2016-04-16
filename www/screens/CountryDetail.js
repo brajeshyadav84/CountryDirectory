@@ -23,7 +23,8 @@ var CountryDetail = React.createClass({
 	getInitialState: function () {
 	    return {
 	      selectedTab: 'Menu',
-	      dateTimeValue: ''
+	      dateTimeValue: '',
+	      weatherData: []
 	    }
 	},
 
@@ -32,7 +33,6 @@ var CountryDetail = React.createClass({
 	},
 
 	nextScreen: function(screenName, details){
-		//this.props.navigator.pop();
 		this.props.navigator.push({
 	      id: screenName,
 	      name: screenName,
@@ -57,6 +57,8 @@ var CountryDetail = React.createClass({
 		that.setState({
 			contentList : that.props.menuContentList
 		});
+		that.getCurrentTime();
+		that.getWeather();
 	},
 
 	DateConverter: function (UNIX_timestamp) {
@@ -91,7 +93,7 @@ var CountryDetail = React.createClass({
         var ampm = hours >= 12 ? ' PM' : ' AM';
         hours = hours % 12;
         hours = hours ? hours : 12; // the hour '0' should be '12'
-        minutes = minutes < 10 ? '' + minutes : minutes;
+        minutes = minutes < 10 ? '0' + minutes : minutes;
         minutes = (minutes === "0") ? '0' + minutes : minutes;
         var strTime = hours + ':' + minutes + ' ' + ampm;
         return strTime;
@@ -108,9 +110,37 @@ var CountryDetail = React.createClass({
 			.then((responseText) => {
 			  var jsonData = JSON.parse(responseText);
 			  dateValue = that.DateConverter(jsonData.timestamp);
-			  console.log("dateValue  " + dateValue);
 			  that.setState({
 			  	dateTimeValue: dateValue
+			  });
+			})
+			.catch((error) => {
+			  //console.warn(error);
+		});
+	},
+
+	getWeather: function(){
+		var that = this;
+		console.log("request Data");
+		var data = [];
+		//api.openweathermap.org/data/2.5/weather?q=singapore
+		fetch('http://api.openweathermap.org/data/2.5/weather?q=singapore').then((response) => response.text())
+			.then((responseText) => {
+			  var jsonData = JSON.parse(responseText);
+			  console.log("response Data");
+			  var sunrise = that.timeConverter(jsonData.sys.sunrise);
+			  var sunset = that.timeConverter(jsonData.sys.sunset);
+			  var humidity = jsonData.main.humidity;
+			  var tempreture = jsonData.main.temp_min;
+			  var visibility = jsonData.visibility;
+			  data.push(sunrise);
+			  data.push(sunset);
+			  data.push(humidity);
+			  data.push(tempreture);
+			  data.push(visibility);
+			  console.log(data);
+			  that.setState({
+			  	weatherData: data
 			  });
 			})
 			.catch((error) => {
@@ -123,7 +153,7 @@ var CountryDetail = React.createClass({
 	 	var contentList = that.props.menuContentList;
 	 	var header = contentList.CountryName;
 	 	var objGovernment = contentList.Government;
-	 	that.getCurrentTime();
+	 	
 	 	var titles = objGovernment.map(function(obj) {
         return (
               <View key={obj.Title} style={IGStyle.otherSubLayout}>
@@ -225,6 +255,32 @@ var CountryDetail = React.createClass({
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Temperature: </Text>
 				                          <Text>{contentList.Temperature}</Text>
+			                          </View>
+		                        </View>
+
+		                        <View style={IGStyle.subHeaderLayout}> 
+		                          <Text style={IGStyle.titleHeaderText}>Weather Information </Text>
+		                        </View>
+		                        <View style={IGStyle.generalLayout}> 
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>sunrise: </Text>
+				                          <Text>{that.state.weatherData[0]}</Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>sunset: </Text>
+				                          <Text>{that.state.weatherData[1]}</Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>humidity: </Text>
+				                          <Text>{that.state.weatherData[2]}</Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>Temperature: </Text>
+				                          <Text>{that.state.weatherData[3]}</Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>visibility: </Text>
+				                          <Text>{that.state.weatherData[4]}</Text>
 			                          </View>
 		                        </View>
 
