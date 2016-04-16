@@ -35,7 +35,7 @@ var objData = [
                   "CallingCode" : "+93",
                   "CountryCode" : "AF",
                   "CountryName" : "Afghanistan",
-                  "Anthem" : "https://commons.wikimedia.org/wiki/File%3AJana_Gana_Mana_instrumental.ogg",
+                  "Anthem" : "https://archive.org/details/jana-gana-mana",
                   "Motto" : "لا إله إلا الله، محمد رسول الله Lā ʾilāha ʾillāl–lāh, Muhammadun rasūl allāh There is no god but God; Muhammad is the messenger of God. (Shahada)",
                   "GeneralInfo" : {
                     "Capital" : "Kabul",
