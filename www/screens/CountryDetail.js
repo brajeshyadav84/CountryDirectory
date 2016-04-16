@@ -23,6 +23,7 @@ var CountryDetail = React.createClass({
 	getInitialState: function () {
 	    return {
 	      selectedTab: 'Menu',
+	      dateTimeValue: ''
 	    }
 	},
 
@@ -60,7 +61,7 @@ var CountryDetail = React.createClass({
 
 	DateConverter: function (UNIX_timestamp) {
         var colMonth = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-        var d = new Date(UNIX_timestamp);
+        var d = new Date(UNIX_timestamp * 1000);
         var monthName = colMonth[d.getMonth()];
         var getDay = d.getDate();
         var getYear  = d.getFullYear();
@@ -99,10 +100,22 @@ var CountryDetail = React.createClass({
 
 	getCurrentTime: function(){
 		var that = this;
+		var dateValue = '';
 		//http://timezonedb.com/time-zones
 		//http://api.timezonedb.com/?zone=Asia/Singapore&key=CO6L1T6M8DY5
-		var dateValue = that.DateConverter();
-		return dateValue;
+		//http://api.timezonedb.com/?zone=America/Toronto&format=json&key=YOUR_API_KEY
+		fetch('http://api.timezonedb.com/?zone=Asia/Singapore&format=json&key=CO6L1T6M8DY5').then((response) => response.text())
+			.then((responseText) => {
+			  var jsonData = JSON.parse(responseText);
+			  dateValue = that.DateConverter(jsonData.timestamp);
+			  console.log("dateValue  " + dateValue);
+			  that.setState({
+			  	dateTimeValue: dateValue
+			  });
+			})
+			.catch((error) => {
+			  //console.warn(error);
+		});
 	},
 
 	render: function(){
@@ -110,6 +123,7 @@ var CountryDetail = React.createClass({
 	 	var contentList = that.props.menuContentList;
 	 	var header = contentList.CountryName;
 	 	var objGovernment = contentList.Government;
+	 	that.getCurrentTime();
 	 	var titles = objGovernment.map(function(obj) {
         return (
               <View key={obj.Title} style={IGStyle.otherSubLayout}>
@@ -206,7 +220,7 @@ var CountryDetail = React.createClass({
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>CurrentTime: </Text>
-				                          <Text>{contentList.CurrentTime}</Text>
+				                          <Text>{that.state.dateTimeValue}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Temperature: </Text>
