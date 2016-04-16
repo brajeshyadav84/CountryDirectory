@@ -66,7 +66,7 @@ var CountryDetail = React.createClass({
 	 	var titles = objGovernment.map(function(obj) {
         return (
               <View key={obj.Title} style={IGStyle.otherSubLayout}>
-                    <Text style={IGStyle.titleText}>{obj.Title}</Text>
+                    <Text style={IGStyle.titleText}>{obj.Title}:</Text>
                     <Text>{obj.Name}</Text>
               </View>
         );
