@@ -24,82 +24,6 @@ var {
   TabBarIOS
 } = React;
 
-var objData = [ 
-                {
-                  "id": "C1",
-                  "Flag" : "http://i.infopls.com/images/afghan.gif",
-                  "Seal": {
-                    "Title" : "Coat of arms",
-                    "Image" : "https://upload.wikimedia.org/wikipedia/commons/c/c7/National_Emblem_of_Afghanistan_03.png"
-                  },
-                  "CallingCode" : "+93",
-                  "CountryCode" : "AF",
-                  "CountryName" : "Afghanistan",
-                  "Anthem" : "https://archive.org/details/jana-gana-mana",
-                  "Motto" : "لا إله إلا الله، محمد رسول الله Lā ʾilāha ʾillāl–lāh, Muhammadun rasūl allāh There is no god but God; Muhammad is the messenger of God. (Shahada)",
-                  "GeneralInfo" : {
-                    "Capital" : "Kabul",
-                    "Area" : "250,000 sq mi (647,500 sq km)",
-                    "Population" : "31,822,848 (growth rate: 2.3%)",
-                    "Language": "Pashto Dari",
-                    "Currency" : "Afghani",
-                    "InternetTLD" : ".af افغانستان.",
-                    "TimeZone" : "D† (UTC+4:30 Solar Calendar)"
-                  },
-                  "Government": [{
-                    "Title": "President",
-                    "Name": "Ashraf Ghani"
-                  },
-                  {
-                    "Title": "Chief Executive Officer",
-                    "Name": "Abdullah Abdullah"
-                  }
-                  ],
-                  "DateFormat" : "",
-                  "CurrentTime": "",
-                  "Temperature" : "",
-                  "BestPlaceToVisit": "",
-                  "Map" : "http://i.infopls.com/images/mafghan.gif",
-                  "Geography" : " AnthemAnthemAnthemAnthem Anthem AnthemAnthemAnthemAnthem Anthem AnthemAnthemAnthemAnthem Anthem"
-                },
-                {
-                  "id": "C2",
-                  "Flag" : "http://i.infopls.com/images/afghan.gif",
-                  "Seal": {
-                    "Title" : "Coat of arms",
-                    "Image" : "https://upload.wikimedia.org/wikipedia/commons/c/c7/National_Emblem_of_Afghanistan_03.png"
-                  },
-                  "CallingCode" : "+93",
-                  "CountryCode" : "IN",
-                  "CountryName" : "India",
-                  "Anthem" : "http://127.0.0.1:53946/afganistan.mp3",
-                  "Motto" : "لا إله إلا الله، محمد رسول الله Lā ʾilāha ʾillāl–lāh, Muhammadun rasūl allāh There is no god but God; Muhammad is the messenger of God. (Shahada)",
-                  "GeneralInfo" : {
-                    "Capital" : "Kabul",
-                    "Area" : "250,000 sq mi (647,500 sq km)",
-                    "Population" : "31,822,848 (growth rate: 2.3%)",
-                    "Language": "Pashto Dari",
-                    "Currency" : "Afghani",
-                    "InternetTLD" : ".af افغانستان.",
-                    "TimeZone" : "D† (UTC+4:30 Solar Calendar)"
-                  },
-                  "Government": [{
-                    "Title": "President",
-                    "Name": "Ashraf Ghani"
-                  },
-                  {
-                    "Title": "Chief Executive Officer",
-                    "Name": "Abdullah Abdullah"
-                  }
-                  ],
-                  "DateFormat" : "",
-                  "CurrentTime": "",
-                  "Temperature" : "",
-                  "BestPlaceToVisit": "",
-                  "Map" : "http://i.infopls.com/images/mafghan.gif",
-                  "Geography" : ""
-                }
-              ];
 
 var Home = React.createClass ({
   getInitialState: function () {
@@ -129,10 +53,19 @@ var Home = React.createClass ({
 
   componentDidMount: function(){
       var that = this;
-      that.setState({
-        colCountry: objData
-      });
-      that.origionalCollection = objData;
+      fetch('http://127.0.0.1:58094/CountryList.json').then((response) => response.text())
+        .then((responseText) => {
+          console.log(responseText);
+          var objData = JSON.parse(responseText);
+          
+          that.setState({
+            colCountry: objData.CountryList
+          });
+          that.origionalCollection = objData;
+        })
+      .catch((error) => {
+        //console.warn(error);
+     });
   },
 
   searchByCountry: function(text){

@@ -1,45 +1,7 @@
 // http://www.infoplease.com/countries.html
 
 {"CountryList": [
-  {  
-   "id":"C0",
-   "Flag":"",
-   "Seal":{  
-      "Title":"",
-      "Image":""
-   },
-   "CallingCode":"",
-   "CountryCode":"",
-   "CountryName":"",
-   "Anthem":"",
-   "Motto":"",
-   "GeneralInfo":{  
-      "Capital":"",
-      "Area":"",
-      "Population":"",
-      "Language":"",
-      "Currency":"",
-      "InternetTLD":"",
-      "TimeZone":""
-   },
-   "Government":[  
-      {  
-         "Title":"",
-         "Name":""
-      },
-      {  
-         "Title":"",
-         "Name":""
-      }
-   ],
-   "DateFormat":"",
-   "CurrentTime":"",
-   "Temperature":"",
-   "BestPlaceToVisit":"",
-   "Map":"",
-   "Geography":""
-},
-	{  
+   {  
    "id":"C1",
    "Flag":"http://i.infopls.com/images/afghan.gif",
    "Seal":{  
@@ -84,7 +46,7 @@
       "Title":"Coat of arms",
       "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Coat_of_arms_of_Albania.svg/397px-Coat_of_arms_of_Albania.svg.png"
    },
-   "CallingCode":"355",
+   "CallingCode":"+355",
    "CountryCode":"AL",
    "CountryName":"Albania",
    "Anthem":"",
@@ -96,7 +58,7 @@
       "Language":"Albaniana",
       "Currency":"Lek (ALL)",
       "InternetTLD":".al",
-      "TimeZone":""
+      "TimeZone":"CET (UTC+1),CEST (UTC+2)"
    },
    "Government":[  
       {  
@@ -115,5 +77,123 @@
    "Map":"http://i.infopls.com/images/malbania.gif",
    "Geography":"Albania is situated on the eastern shore of the Adriatic Sea, with Montenegro and Serbia to the north, Macedonia to the east, and Greece to the south. Slightly larger than Maryland, Albania is composed of two major regions: a mountainous highland region (north, east, and south) constituting 70% of the land area, and a western coastal lowland region that contains nearly all of the country's agricultural land and is the most densely populated part of Albania."
 },
+{  
+   "id":"C3",
+   "Flag":"http://i.infopls.com/images/algeria.gif",
+   "Seal":{  
+      "Title":"Emblem",
+      "Image":"https://upload.wikimedia.org/wikipedia/commons/7/77/Seal_of_Algeria.svg"
+   },
+   "CallingCode":"+213",
+   "CountryCode":"DZ",
+   "CountryName":"Algeria",
+   "Anthem":"",
+   "Motto":"By the people and for the people",
+   "GeneralInfo":{  
+      "Capital":"Algiers",
+      "Area":"2,381,741 km2 (10th) 919,595 sq mi",
+      "Population":"40,400,000[6] (33rd)",
+      "Language":"Arabic, Berber",
+      "Currency":"Dinar (DZD)",
+      "InternetTLD":".dz",
+      "TimeZone":"CET (UTC+1)"
+   },
+   "Government":[  
+      {  
+         "Title":"President",
+         "Name":"Abdelaziz Bouteflika"
+      },
+      {  
+         "Title":"Prime Minister",
+         "Name":"Abdelmalek Sellal"
+      }
+   ],
+   "DateFormat":"",
+   "CurrentTime":"",
+   "Temperature":"",
+   "BestPlaceToVisit":"",
+   "Map":"http://i.infopls.com/images/malgeria.gif",
+   "Geography":"Nearly four times the size of Texas and the largest country on the continent, Algeria is bordered on the west by Morocco and Western Sahara and on the east by Tunisia and Libya. The Mediterranean Sea is to the north, and to the south are Mauritania, Mali, and Niger. The Saharan region, which is 85% of the country, is almost completely uninhabited. The highest point is Mount Tahat in the Sahara, which rises 9,850 ft (3,000 m)."
+},
+{  
+   "id":"C4",
+   "Flag":"http://i.infopls.com/images/andorra.gif",
+   "Seal":{  
+      "Title":"Coat of arms",
+      "Image":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Coat_of_arms_of_Andorra.svg"
+   },
+   "CallingCode":"+376",
+   "CountryCode":"AD",
+   "CountryName":"Andorra la Vella",
+   "Anthem":"",
+   "Motto":"Virtus Unita Fortior United virtue is stronger",
+   "GeneralInfo":{  
+      "Capital":"Andorra la Vella",
+      "Area":"467.63 km2 (179th) 180.55 sq mi",
+      "Population":"85,470",
+      "Language":"Catalan,Spanish,French,Portuguese",
+      "Currency":"EURO",
+      "InternetTLD":".ad",
+      "TimeZone":"CET (UTC+1),CEST (UTC+2)"
+   },
+   "Government":[  
+      {  
+         "Title":"Co-Princes",
+         "Name":"Joan Enric Vives Sicília"
+      },
+      {  
+         "Title":"Representative,François Hollande",
+         "Name":"Josep Maria Mauri,Thierry Lataste"
+      },
+      {  
+         "Title":"Prime Minister",
+         "Name":"Antoni Martí"
+      }
+   ],
+   "DateFormat":"",
+   "CurrentTime":"",
+   "Temperature":"",
+   "BestPlaceToVisit":"",
+   "Map":"http://i.infopls.com/images/mandorra.gif",
+   "Geography":"Andorra is nestled high in the Pyrénées Mountains on the French-Spanish border."
+},
+{  
+   "id":"C0",
+   "Flag":"http://i.infopls.com/images/angola.gif",
+   "Seal":{  
+      "Title":"Emblem",
+      "Image":"https://upload.wikimedia.org/wikipedia/commons/0/03/Coat_of_arms_of_Angola.svg"
+   },
+   "CallingCode":"+244",
+   "CountryCode":"AO",
+   "CountryName":"Angola",
+   "Anthem":"",
+   "Motto":"",
+   "GeneralInfo":{  
+      "Capital":"Luanda",
+      "Area":"1,246,700 km2 (23rd) 481,354 sq mi",
+      "Population":"24,383,301",
+      "Language":"Portuguese,Kikongo,Chokwe,Umbundu,Kimbundu,Nganguela,Kwanyama",
+      "Currency":"Kwanza (AOA)",
+      "InternetTLD":".ao",
+      "TimeZone":"WAT (UTC+1)"
+   },
+   "Government":[  
+      {  
+         "Title":"President",
+         "Name":"José Eduardo dos Santos"
+      },
+      {  
+         "Title":"Vice President",
+         "Name":"Manuel Vicente"
+      }
+   ],
+   "DateFormat":"",
+   "CurrentTime":"",
+   "Temperature":"",
+   "BestPlaceToVisit":"",
+   "Map":"http://i.infopls.com/images/mangola.gif",
+   "Geography":"Angola, more than three times the size of California, extends for more than 1,000 mi (1,609 km) along the South Atlantic in southwest Africa. The Democratic Republic of the Congo and the Republic of Congo are to the north and east, Zambia is to the east, and Namibia is to the south. A plateau averaging 6,000 ft (1,829 m) above sea level rises abruptly from the coastal lowlands. Nearly all the land is desert or savanna, with hardwood forests in the northeast."
+}
 
 ]}
