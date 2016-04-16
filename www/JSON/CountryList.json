@@ -194,6 +194,48 @@
    "BestPlaceToVisit":"",
    "Map":"http://i.infopls.com/images/mangola.gif",
    "Geography":"Angola, more than three times the size of California, extends for more than 1,000 mi (1,609 km) along the South Atlantic in southwest Africa. The Democratic Republic of the Congo and the Republic of Congo are to the north and east, Zambia is to the east, and Namibia is to the south. A plateau averaging 6,000 ft (1,829 m) above sea level rises abruptly from the coastal lowlands. Nearly all the land is desert or savanna, with hardwood forests in the northeast."
+},
+{  
+   "id":"C6",
+   "Flag":"http://i.infopls.com/images/antigua.gif",
+   "Seal":{  
+      "Title":"Coat of arms",
+      "Image":"https://upload.wikimedia.org/wikipedia/commons/3/30/Coat_of_arms_of_Antigua_and_Barbuda.svg"
+   },
+   "CallingCode":"+1-268",
+   "CountryCode":"AG",
+   "CountryName":"Antigua and Barbuda",
+   "Anthem":"",
+   "Motto":"Each Endeavouring, All Achieving",
+   "GeneralInfo":{  
+      "Capital":"St. John's",
+      "Area":"440 km2 (195th) 170 sq mi",
+      "Population":"91,295",
+      "Language":"English, Antiguan Creole",
+      "Currency":"East Caribbean dollar (XCD)",
+      "InternetTLD":".ag",
+      "TimeZone":"AST (UTC-4)"
+   },
+   "Government":[  
+      {  
+         "Title":"Monarch",
+         "Name":"Elizabeth II"
+      },
+      {  
+         "Title":"Governor General",
+         "Name":"Rodney Williams"
+      },
+      {  
+         "Title":"Prime Minister",
+         "Name":"Gaston Browne"
+      }
+   ],
+   "DateFormat":"",
+   "CurrentTime":"",
+   "Temperature":"",
+   "BestPlaceToVisit":"",
+   "Map":"http://i.infopls.com/images/mantigua.gif",
+   "Geography":"Antigua, the larger of the two main islands, is 108 sq mi (280 sq km). The island dependencies of Redonda (an uninhabited rocky islet) and Barbuda (a coral island formerly known as Dulcina) are 0.5 sq mi (1.30 sq km) and 62 sq mi (161 sq km), respectively."
 }
 
 
