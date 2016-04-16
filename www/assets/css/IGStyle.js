@@ -59,8 +59,8 @@ var styles = StyleSheet.create({
     subHeaderLayout:{
         flex:1,
         flexDirection: 'row',
-        height: 30,
-        paddingTop:5,
+        // height: 40,
+        // paddingTop:5,
         backgroundColor: 'grey',
         paddingLeft: 10
     },

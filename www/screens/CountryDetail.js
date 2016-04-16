@@ -63,6 +63,16 @@ var CountryDetail = React.createClass({
 	 	var that = this;
 	 	var contentList = that.props.menuContentList;
 	 	var header = contentList.CountryName;
+	 	var objGovernment = contentList.Government;
+	 	var titles = objGovernment.map(function(obj) {
+        return (
+              <View key={obj.Title} style={IGStyle.otherSubLayout}>
+                    <Text style={IGStyle.titleText}>{obj.Title}</Text>
+                    <Text>{obj.Name}</Text>
+              </View>
+        );
+      });
+
 		return (
 			<View style={IGStyle.bgGrey}>
 				<HeaderTabComponent headerContent={header} preScreen={() => that.preScreen()} isShow='true'/>
@@ -102,8 +112,8 @@ var CountryDetail = React.createClass({
 		                        <View style={IGStyle.subHeaderLayout}> 
 		                          <Text style={IGStyle.titleHeaderText}>Government </Text>
 		                        </View>
-		                        <View style={IGStyle.otherLayout}> 
-		                          <Text>Government </Text>
+		                        <View style={IGStyle.generalLayout}> 
+		                          {titles}
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
