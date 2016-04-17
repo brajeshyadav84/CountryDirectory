@@ -304,7 +304,7 @@ var CountryDetail = React.createClass({
 		                          <Text style={IGStyle.titleHeaderText}>Best Place To Visit </Text>
 		                        </View>
 		                        <View style={IGStyle.otherLayout}> 
-		                          <Text style={IGStyle.fullText}>Anthem </Text>
+		                          <Text style={IGStyle.fullText}> </Text>
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
