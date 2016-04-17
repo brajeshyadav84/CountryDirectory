@@ -64,7 +64,7 @@ var CountryDetail = React.createClass({
 		that.getWeather();
 	},
 
-	DateConverter: function (UNIX_timestamp) {
+	DateConverter: function (UNIX_timestamp) {console.log("UNIX_timestamp ::");console.log(UNIX_timestamp);
         var colMonth = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
         var d = new Date(UNIX_timestamp * 1000);
         var monthName = colMonth[d.getMonth()];
@@ -109,7 +109,8 @@ var CountryDetail = React.createClass({
 		//http://timezonedb.com/time-zones
 		//http://api.timezonedb.com/?zone=Asia/Singapore&key=CO6L1T6M8DY5
 		//http://api.timezonedb.com/?zone=America/Toronto&format=json&key=YOUR_API_KEY
-		fetch('http://api.timezonedb.com/?zone=Asia/Singapore&format=json&key=CO6L1T6M8DY5').then((response) => response.text())
+		var zone = that.props.menuContentList.Zone;
+		fetch('http://api.timezonedb.com/?zone='+ zone +'&format=json&key=CO6L1T6M8DY5').then((response) => response.text())
 			.then((responseText) => {
 			  var jsonData = JSON.parse(responseText);
 			  dateValue = that.DateConverter(jsonData.timestamp);
@@ -126,8 +127,9 @@ var CountryDetail = React.createClass({
 		var that = this;
 		console.log("request Data");
 		var data = [];
+		var city = that.props.menuContentList.GeneralInfo.Capital;
 		//api.openweathermap.org/data/2.5/weather?q=singapore
-		fetch('http://api.openweathermap.org/data/2.5/weather?q=singapore').then((response) => response.text())
+		fetch('http://api.openweathermap.org/data/2.5/weather?q='+city).then((response) => response.text())
 			.then((responseText) => {
 			  var jsonData = JSON.parse(responseText);
 			  console.log("response Data");
