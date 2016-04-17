@@ -129,14 +129,14 @@ var CountryDetail = React.createClass({
 		var data = [];
 		var city = that.props.menuContentList.GeneralInfo.Capital;
 		//api.openweathermap.org/data/2.5/weather?q=singapore
-		fetch('http://api.openweathermap.org/data/2.5/weather?q='+city).then((response) => response.text())
+		fetch('http://api.openweathermap.org/data/2.5/weather?q='+city+'&units=metric').then((response) => response.text())
 			.then((responseText) => {
 			  var jsonData = JSON.parse(responseText);
 			  console.log("response Data");
 			  var sunrise = that.timeConverter(jsonData.sys.sunrise);
 			  var sunset = that.timeConverter(jsonData.sys.sunset);
 			  var humidity = jsonData.main.humidity;
-			  var tempreture = jsonData.main.temp_min;
+			  var tempreture = jsonData.main.temp +" ℃";
 			  var visibility = jsonData.weather[0].description;
 			  data.push(sunrise);
 			  data.push(sunset);
