@@ -53,7 +53,7 @@ var Home = React.createClass ({
 
   componentDidMount: function(){
       var that = this;
-      fetch('http://127.0.0.1:58094/CountryList.json').then((response) => response.text())
+      fetch('http://www.interviewgully.com/API/CD_V1/CountryList.json').then((response) => response.text())
         .then((responseText) => {
           console.log(responseText);
           var objData = JSON.parse(responseText);
@@ -61,7 +61,7 @@ var Home = React.createClass ({
           that.setState({
             colCountry: objData.CountryList
           });
-          that.origionalCollection = objData;
+          that.origionalCollection = objData.CountryList;
         })
       .catch((error) => {
         //console.warn(error);
