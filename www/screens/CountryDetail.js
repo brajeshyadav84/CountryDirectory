@@ -137,7 +137,7 @@ var CountryDetail = React.createClass({
 			  var sunset = that.timeConverter(jsonData.sys.sunset);
 			  var humidity = jsonData.main.humidity;
 			  var tempreture = jsonData.main.temp_min;
-			  var visibility = jsonData.visibility;
+			  var visibility = jsonData.weather[0].description;
 			  data.push(sunrise);
 			  data.push(sunset);
 			  data.push(humidity);
