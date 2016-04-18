@@ -52,8 +52,8 @@ var CountryDetail = React.createClass({
 			contentList : that.props.menuContentList,
 			url: ""
 		});
-		//that.getCurrentTime();
-		//that.getWeather();
+		that.getCurrentTime();
+		that.getWeather();
 	},
 
 	DateConverter: function (UNIX_timestamp) {console.log("UNIX_timestamp ::");console.log(UNIX_timestamp);
@@ -101,8 +101,9 @@ var CountryDetail = React.createClass({
 		//http://timezonedb.com/time-zones
 		//http://api.timezonedb.com/?zone=Asia/Singapore&key=CO6L1T6M8DY5
 		//http://api.timezonedb.com/?zone=America/Toronto&format=json&key=YOUR_API_KEY
-		var zone = that.props.menuContentList.Zone;
-		fetch('http://api.timezonedb.com/?zone='+ zone +'&format=json&key=CO6L1T6M8DY5').then((response) => response.text())
+		var lat = that.props.menuContentList.latlng[0];
+		var lng = that.props.menuContentList.latlng[1];
+		fetch('http://api.timezonedb.com/?lat='+ lat +'&lng='+ lng +'&format=json&key=CO6L1T6M8DY5').then((response) => response.text())
 			.then((responseText) => {
 			  var jsonData = JSON.parse(responseText);
 			  dateValue = that.DateConverter(jsonData.timestamp);
@@ -119,7 +120,7 @@ var CountryDetail = React.createClass({
 		var that = this;
 		console.log("request Data");
 		var data = [];
-		var city = that.props.menuContentList.GeneralInfo.Capital;
+		var city = that.props.menuContentList.capital;
 		//api.openweathermap.org/data/2.5/weather?q=singapore
 		fetch('http://api.openweathermap.org/data/2.5/weather?q='+city+'&units=metric').then((response) => response.text())
 			.then((responseText) => {
@@ -274,7 +275,7 @@ var CountryDetail = React.createClass({
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>DateFormat: </Text>
-				                          <Text>{contentList.DateFormat}</Text>
+				                          <Text>dd/mm/yyyy</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>CurrentTime: </Text>
@@ -288,25 +289,26 @@ var CountryDetail = React.createClass({
 		                        <View style={IGStyle.generalLayout}> 
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>sunrise: </Text>
-				                          <Text></Text>
+				                          <Text>{that.state.weatherData[0]}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>sunset: </Text>
-				                          <Text></Text>
+				                          <Text>{that.state.weatherData[1]}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>humidity: </Text>
-				                          <Text></Text>
+				                          <Text>{that.state.weatherData[2]}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Temperature: </Text>
-				                          <Text></Text>
+				                          <Text>{that.state.weatherData[3]}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>visibility: </Text>
-				                          <Text></Text>
+				                          <Text>{that.state.weatherData[4]}</Text>
 			                          </View>
 		                        </View>
+
 
 		                        <View style={IGStyle.subHeaderLayout}> 
 		                          <Text style={IGStyle.titleHeaderText}>Geography </Text>
