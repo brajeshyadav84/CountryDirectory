@@ -46,22 +46,14 @@ var CountryDetail = React.createClass({
 	    this.props.navigator.pop();
 	},
 
-	getChatRoom: function(){
-		this.props.navigator.push({
-	      id: 'ChatScreen',
-	      name: 'ChatScreen',
-	      passProps: ''
-	    });
-	},
-
 	componentDidMount: function(){
 		var that = this;
 		that.setState({
 			contentList : that.props.menuContentList,
-			url: that.props.menuContentList.Anthem
+			url: ""
 		});
-		that.getCurrentTime();
-		that.getWeather();
+		//that.getCurrentTime();
+		//that.getWeather();
 	},
 
 	DateConverter: function (UNIX_timestamp) {console.log("UNIX_timestamp ::");console.log(UNIX_timestamp);
@@ -168,17 +160,29 @@ var CountryDetail = React.createClass({
 	render: function(){
 	 	var that = this;
 	 	var contentList = that.props.menuContentList;
-	 	var header = contentList.CountryName;
-	 	var objGovernment = contentList.Government;
+	 	var header = contentList.name;
+	 	var timezone = "";
+	 	var language = "";
 	 	
-	 	var titles = objGovernment.map(function(obj) {
-        return (
-              <View key={obj.Title} style={IGStyle.otherSubLayout}>
-                    <Text style={IGStyle.titleText}>{obj.Title}:</Text>
-                    <Text>{obj.Name}</Text>
-              </View>
-        );
-      });
+	 	if(contentList.languages != null){
+	        language = (contentList.languages).map(function(obj) {
+	        	var objlanguage = obj + ", ";
+		        return (
+		              <Text>{objlanguage}</Text>
+		        );
+	        });
+    	}
+
+        if(contentList.timezones != null){
+	        timezone = (contentList.timezones).map(function(obj) {
+	        	var objtimezone = obj + ", ";
+		        return (
+		              <Text>{objtimezone}</Text>
+		        );
+	        });
+    	}
+
+      
 
 		return (
 			<View style={IGStyle.bgGrey}>
@@ -186,29 +190,32 @@ var CountryDetail = React.createClass({
 						<ScrollView contentContainerStyle={IGStyle.stage, IGStyle.scrollView} >
 				          	<View style={IGStyle.cardTitleMenuLayout}>
 		                        <View style={IGStyle.flagLayout}>
-		                          <Image style={IGStyle.countryImage} source={{uri: contentList.Flag}} />
-		                          <Image style={IGStyle.countryImage} source={{uri: contentList.Seal.Image}} />
+		                          
 		                        </View>
 		                        <View style={IGStyle.flagTextLayout}>
 		                          <Text style={IGStyle.titleText}>Country Flag </Text>
-			                      <Text style={IGStyle.titleText}>{contentList.Seal.Title}</Text>
+			                      <Text style={IGStyle.titleText}>Seal</Text>
 		                        </View>
 		                        <View style={IGStyle.generalLayout}>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Country Name: </Text>
-			                          <Text>{contentList.CountryName}</Text>
+			                          <Text>{contentList.name}</Text>
+			                        </View>
+			                        <View style={IGStyle.otherSubLayout}> 
+			                          <Text style={IGStyle.titleText}>Native Name: </Text>
+			                          <Text>{contentList.nativeName}</Text>
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Country Code: </Text>
-			                          <Text>{contentList.CountryCode}</Text>
+			                          <Text>{contentList.alpha2Code}</Text>
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Calling Code: </Text>
-			                          <Text>{contentList.CallingCode}</Text>
+			                          <Text>{contentList.callingCodes[0]}</Text>
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Motto: </Text>
-			                          <Text style={IGStyle.titleSubText}>{contentList.Motto}</Text>
+			                          <Text style={IGStyle.titleSubText}>motto</Text>
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Anthem: </Text>
@@ -222,7 +229,7 @@ var CountryDetail = React.createClass({
 		                          <Text style={IGStyle.titleHeaderText}>Government </Text>
 		                        </View>
 		                        <View style={IGStyle.generalLayout}> 
-		                          {titles}
+		                          <Text>Government</Text>
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
@@ -231,31 +238,31 @@ var CountryDetail = React.createClass({
 		                        <View style={IGStyle.generalLayout}> 
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Capital: </Text>
-				                          <Text>{contentList.GeneralInfo.Capital}</Text>
+				                          <Text>{contentList.capital}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Area: </Text>
-				                          <Text>{contentList.GeneralInfo.Area}</Text>
+				                          <Text>{contentList.area}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Population: </Text>
-				                          <Text>{contentList.GeneralInfo.Population}</Text>
+				                          <Text>{contentList.population}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Language: </Text>
-				                          <Text>{contentList.GeneralInfo.Language}</Text>
+				                          <Text>{language}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Currency: </Text>
-				                          <Text>{contentList.GeneralInfo.Currency}</Text>
+				                          <Text>{contentList.currencies[0]}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>InternetTLD: </Text>
-				                          <Text>{contentList.GeneralInfo.InternetTLD}</Text>
+				                          <Text>{contentList.topLevelDomain[0]}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>TimeZone: </Text>
-				                          <Text>{contentList.GeneralInfo.TimeZone}</Text>
+				                          <Text>{timezone}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>DateFormat: </Text>
@@ -265,53 +272,6 @@ var CountryDetail = React.createClass({
 				                          <Text style={IGStyle.titleText}>CurrentTime: </Text>
 				                          <Text>{that.state.dateTimeValue}</Text>
 			                          </View>
-		                        </View>
-
-		                        <View style={IGStyle.subHeaderLayout}> 
-		                          <Text style={IGStyle.titleHeaderText}>Weather Information </Text>
-		                        </View>
-		                        <View style={IGStyle.generalLayout}> 
-			                          <View style={IGStyle.otherSubLayout}> 
-				                          <Text style={IGStyle.titleText}>sunrise: </Text>
-				                          <Text>{that.state.weatherData[0]}</Text>
-			                          </View>
-			                          <View style={IGStyle.otherSubLayout}> 
-				                          <Text style={IGStyle.titleText}>sunset: </Text>
-				                          <Text>{that.state.weatherData[1]}</Text>
-			                          </View>
-			                          <View style={IGStyle.otherSubLayout}> 
-				                          <Text style={IGStyle.titleText}>humidity: </Text>
-				                          <Text>{that.state.weatherData[2]}</Text>
-			                          </View>
-			                          <View style={IGStyle.otherSubLayout}> 
-				                          <Text style={IGStyle.titleText}>Temperature: </Text>
-				                          <Text>{that.state.weatherData[3]}</Text>
-			                          </View>
-			                          <View style={IGStyle.otherSubLayout}> 
-				                          <Text style={IGStyle.titleText}>visibility: </Text>
-				                          <Text>{that.state.weatherData[4]}</Text>
-			                          </View>
-		                        </View>
-
-		                        <View style={IGStyle.subHeaderLayout}> 
-		                          <Text style={IGStyle.titleHeaderText}>Geography </Text>
-		                        </View>
-		                        <View style={IGStyle.generalLayout}> 
-		                          <Text style={IGStyle.fullText}>{contentList.Geography}</Text>
-		                        </View>
-
-		                        <View style={IGStyle.subHeaderLayout}> 
-		                          <Text style={IGStyle.titleHeaderText}>Best Place To Visit </Text>
-		                        </View>
-		                        <View style={IGStyle.otherLayout}> 
-		                          <Text style={IGStyle.fullText}> </Text>
-		                        </View>
-
-		                        <View style={IGStyle.subHeaderLayout}> 
-		                          <Text style={IGStyle.titleHeaderText}>Map </Text>
-		                        </View>
-		                        <View style={IGStyle.mapLayout}> 
-		                          <Image style={IGStyle.mapImage} source={{uri: contentList.Map}} />
 		                        </View>
 
 		                    </View>
