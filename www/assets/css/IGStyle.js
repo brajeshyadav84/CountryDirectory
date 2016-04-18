@@ -221,6 +221,7 @@ var styles = StyleSheet.create({
     headerTabtitleText: {
         color:'white',
         fontWeight:'bold',
+        fontSize: 18,
         justifyContent: 'center',
     },
     leftSubHeader: {
