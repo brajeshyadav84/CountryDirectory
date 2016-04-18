@@ -53,15 +53,16 @@ var Home = React.createClass ({
 
   componentDidMount: function(){
       var that = this;
-      fetch('http://www.interviewgully.com/API/CD_V1/CountryList.json').then((response) => response.text())
+
+      fetch('https://restcountries.eu/rest/v1/all').then((response) => response.text())
         .then((responseText) => {
           console.log(responseText);
           var objData = JSON.parse(responseText);
           
           that.setState({
-            colCountry: objData.CountryList
+            colCountry: objData
           });
-          that.origionalCollection = objData.CountryList;
+          that.origionalCollection = objData;
         })
       .catch((error) => {
         //console.warn(error);
@@ -75,7 +76,7 @@ var Home = React.createClass ({
       filterData = that.origionalCollection;
     } else {
       _lodash.find(that.origionalCollection, function(item){
-        var itemValue = item.CountryName.toLowerCase();
+        var itemValue = item.name.toLowerCase();
         if(itemValue.indexOf(text.toLowerCase()) >= 0){
           filterData.push(item);
         }
@@ -93,13 +94,13 @@ var Home = React.createClass ({
       var colData = that.state.colCountry;
       var titles = colData.map(function(obj) {
         return (
-              <TouchableOpacity key={obj.id} onPress={() => that.nextScreen('CountryDetail',obj)}>
+              <TouchableOpacity key={obj.name} onPress={() => that.nextScreen('CountryDetail',obj)}>
                     <View style={IGStyle.cardTitleLayout}>
                         <View style={IGStyle.imageLogo}>
                           <Image style={IGStyle.logo} source={{uri: obj.Flag}} />
                         </View>
                         <View style={IGStyle.topicTitle}>
-                          <Text>{obj.CountryName}</Text>
+                          <Text>{obj.name}</Text>
                         </View>
                         <View style={IGStyle.arrowImage}>
                           <Image style={IGStyle.arrow} source={{uri: 'http://www.clker.com/cliparts/V/1/Z/A/h/U/left-arrow-right-md.png'}} />
