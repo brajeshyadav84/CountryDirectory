@@ -168,7 +168,7 @@ var CountryDetail = React.createClass({
 	        language = (contentList.languages).map(function(obj) {
 	        	var objlanguage = obj + ", ";
 		        return (
-		              <Text>{objlanguage}</Text>
+		              <Text key={obj}>{objlanguage}</Text>
 		        );
 	        });
     	}
@@ -177,7 +177,7 @@ var CountryDetail = React.createClass({
 	        timezone = (contentList.timezones).map(function(obj) {
 	        	var objtimezone = obj + ", ";
 		        return (
-		              <Text>{objtimezone}</Text>
+		              <Text key={obj}>{objtimezone}</Text>
 		        );
 	        });
     	}
@@ -273,6 +273,54 @@ var CountryDetail = React.createClass({
 				                          <Text>{that.state.dateTimeValue}</Text>
 			                          </View>
 		                        </View>
+
+		                        <View style={IGStyle.subHeaderLayout}> 
+		                          <Text style={IGStyle.titleHeaderText}>Weather Information </Text>
+		                        </View>
+		                        <View style={IGStyle.generalLayout}> 
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>sunrise: </Text>
+				                          <Text></Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>sunset: </Text>
+				                          <Text></Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>humidity: </Text>
+				                          <Text></Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>Temperature: </Text>
+				                          <Text></Text>
+			                          </View>
+			                          <View style={IGStyle.otherSubLayout}> 
+				                          <Text style={IGStyle.titleText}>visibility: </Text>
+				                          <Text></Text>
+			                          </View>
+		                        </View>
+
+		                        <View style={IGStyle.subHeaderLayout}> 
+		                          <Text style={IGStyle.titleHeaderText}>Geography </Text>
+		                        </View>
+		                        <View style={IGStyle.generalLayout}> 
+		                          <Text style={IGStyle.fullText}></Text>
+		                        </View>
+
+		                        <View style={IGStyle.subHeaderLayout}> 
+		                          <Text style={IGStyle.titleHeaderText}>Best Place To Visit </Text>
+		                        </View>
+		                        <View style={IGStyle.otherLayout}> 
+		                          <Text style={IGStyle.fullText}> </Text>
+		                        </View>
+
+		                        <View style={IGStyle.subHeaderLayout}> 
+		                          <Text style={IGStyle.titleHeaderText}>Map </Text>
+		                        </View>
+		                        <View style={IGStyle.mapLayout}> 
+		                          
+		                        </View>
+
 
 		                    </View>
 		                    
