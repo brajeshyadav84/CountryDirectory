@@ -50,7 +50,7 @@ var CountryDetail = React.createClass({
 		var that = this;
 		that.setState({
 			contentList : that.props.menuContentList,
-			url: ""
+			url: 'http://www.interviewgully.com/API/CD_V1/CountryAnthem/'+that.props.menuContentList.alpha2Code.toLowerCase()+'.mp3'
 		});
 		that.getCurrentTime();
 		that.getWeather();
