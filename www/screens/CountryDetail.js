@@ -183,7 +183,8 @@ var CountryDetail = React.createClass({
 	        });
     	}
 
-      
+    	var Flag = 'http://www.interviewgully.com/API/CD_V1/CountryFlags/'+contentList.alpha2Code.toLowerCase()+'.png';
+        var Seal = '';
 
 		return (
 			<View style={IGStyle.bgGrey}>
@@ -191,7 +192,8 @@ var CountryDetail = React.createClass({
 						<ScrollView contentContainerStyle={IGStyle.stage, IGStyle.scrollView} >
 				          	<View style={IGStyle.cardTitleMenuLayout}>
 		                        <View style={IGStyle.flagLayout}>
-		                          
+		                          <Image style={IGStyle.countryImage} source={{uri: Flag}} />
+		                          <Image style={IGStyle.countryImage} source={{uri: Seal}} />
 		                        </View>
 		                        <View style={IGStyle.flagTextLayout}>
 		                          <Text style={IGStyle.titleText}>Country Flag </Text>
@@ -205,6 +207,10 @@ var CountryDetail = React.createClass({
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Native Name: </Text>
 			                          <Text>{contentList.nativeName}</Text>
+			                        </View>
+			                        <View style={IGStyle.otherSubLayout}> 
+			                          <Text style={IGStyle.titleText}>Independence: </Text>
+			                          <Text></Text>
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Country Code: </Text>

@@ -94,11 +94,12 @@ var Home = React.createClass ({
       var that = this;
       var colData = that.state.colCountry;
       var titles = colData.map(function(obj) {
+        var Flag = 'http://www.interviewgully.com/API/CD_V1/CountryFlags/'+obj.alpha2Code.toLowerCase()+'.png';
         return (
               <TouchableOpacity key={obj.name} onPress={() => that.nextScreen('CountryDetail',obj)}>
                     <View style={IGStyle.cardTitleLayout}>
                         <View style={IGStyle.imageLogo}>
-                          <Image style={IGStyle.logo} source={{uri: obj.Flag}} />
+                          <Image style={IGStyle.logo} source={{uri: Flag}} />
                         </View>
                         <View style={IGStyle.topicTitle}>
                           <Text>{obj.name}</Text>
