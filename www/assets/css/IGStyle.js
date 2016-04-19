@@ -156,6 +156,9 @@ var styles = StyleSheet.create({
     scrollView: {
       height: 1500,
     },
+    homeScrollView: {
+      height: 11500,
+    },
     topicTitle: {
         flex:1 ,
         marginLeft:5,

@@ -15,6 +15,7 @@ var {
   TouchableHighlight,
   Text,
   View,
+  ScrollView,
   navigator,
   TabBarIOS,
   NavigatorIOS,
@@ -118,7 +119,9 @@ var Home = React.createClass ({
                       <TextInput style={IGStyle.searchBar} placeholder="Search Country" onChangeText={(text) => that.searchByCountry(text)}/>
                   </View>
                   <View style={IGStyle.subContainer}>
-                      {titles}
+                    <ScrollView contentContainerStyle={IGStyle.stage, IGStyle.homeScrollView} >
+                        {titles}
+                    </ScrollView>
                   </View>
             </View>
       );
