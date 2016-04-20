@@ -58,18 +58,14 @@ var CountryDetail = React.createClass({
 
 	DateConverter: function (UNIX_timestamp) {console.log("UNIX_timestamp ::");console.log(UNIX_timestamp);
         var colMonth = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-        var d = new Date(UNIX_timestamp * 1000);
-        var monthName = colMonth[d.getMonth()];
-        var getDay = d.getDate();
-        var getYear  = d.getFullYear();
-        var timeValue = this.timeConverter(UNIX_timestamp);
-        var result = getDay+"/"+monthName+"/"+getYear+" "+ timeValue;
+        var d = new Date(UNIX_timestamp * 1000).toUTCString();
+        var result = d;
         return result;
     },
 
 
     timeConverter: function (UNIX_timestamp) {
-        var a = new Date(UNIX_timestamp * 1000);
+        var a = new Date(UNIX_timestamp * 1000).toUTCString();
         var months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
         var year = a.getFullYear();
         var month = months[a.getMonth()];
@@ -81,21 +77,7 @@ var CountryDetail = React.createClass({
         return this.tConvert(time);
     },
 
-    tConvert: function (time) {
-
-        var hours = time.split(":")[0];
-        var minutes = time.split(":")[1];
-        var ampm = hours >= 12 ? ' PM' : ' AM';
-        hours = hours % 12;
-        hours = hours ? hours : 12; // the hour '0' should be '12'
-        minutes = minutes < 10 ? '0' + minutes : minutes;
-        minutes = (minutes === "0") ? '0' + minutes : minutes;
-        var strTime = hours + ':' + minutes + ' ' + ampm;
-        return strTime;
-    },
-
-
-	getCurrentTime: function(){
+    getCurrentTime: function(){
 		var that = this;
 		var dateValue = '';
 		//http://timezonedb.com/time-zones
@@ -122,12 +104,11 @@ var CountryDetail = React.createClass({
 		var data = [];
 		var city = that.props.menuContentList.capital;
 		//api.openweathermap.org/data/2.5/weather?q=singapore
-		fetch('http://api.openweathermap.org/data/2.5/weather?q='+city+'&units=metric').then((response) => response.text())
+		fetch('http://api.openweathermap.org/data/2.5/weather?q='+city+'&units=metric&APPID=0edb015b02da2845bf09a5873ef016d3').then((response) => response.text())
 			.then((responseText) => {
 			  var jsonData = JSON.parse(responseText);
-			  console.log("response Data");
-			  var sunrise = that.timeConverter(jsonData.sys.sunrise);
-			  var sunset = that.timeConverter(jsonData.sys.sunset);
+			  var sunrise = that.DateConverter(jsonData.sys.sunrise);
+			  var sunset = that.DateConverter(jsonData.sys.sunset);
 			  var humidity = jsonData.main.humidity;
 			  var tempreture = jsonData.main.temp +" ℃";
 			  var visibility = jsonData.weather[0].description;
@@ -136,7 +117,6 @@ var CountryDetail = React.createClass({
 			  data.push(humidity);
 			  data.push(tempreture);
 			  data.push(visibility);
-			  console.log(data);
 			  that.setState({
 			  	weatherData: data
 			  });
