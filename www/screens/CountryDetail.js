@@ -164,7 +164,7 @@ var CountryDetail = React.createClass({
     	}
 
     	var Flag = 'http://www.interviewgully.com/API/CD_V1/CountryFlags/'+contentList.alpha2Code.toLowerCase()+'.png';
-        var Seal = 'http://www.interviewgully.com/API/CD_V1/CountrySeals/'+contentList.alpha2Code.toLowerCase()+'.png';
+        var Seal = 'http://www.interviewgully.com/API/CD_V1/CountrySeals/'+contentList.alpha2Code+'.png';
 
 		return (
 			<View style={IGStyle.bgGrey}>
@@ -177,7 +177,7 @@ var CountryDetail = React.createClass({
 		                        </View>
 		                        <View style={IGStyle.flagTextLayout}>
 		                          <Text style={IGStyle.titleText}>Country Flag </Text>
-			                      <Text style={IGStyle.titleText}>emblem</Text>
+			                      <Text style={IGStyle.titleText}>Emblem</Text>
 		                        </View>
 		                        <View style={IGStyle.generalLayout}>
 			                        <View style={IGStyle.otherSubLayout}> 
