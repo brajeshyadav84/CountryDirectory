@@ -1,26 +1,7 @@
-{"CountryList": [
+[
    {  
-   "id":"C1",
-   "Flag":"http://i.infopls.com/images/afghan.gif",
-   "Seal":{  
-      "Title":"Coat of arms",
-      "Image":"https://upload.wikimedia.org/wikipedia/commons/c/c7/National_Emblem_of_Afghanistan_03.png"
-   },
-   "Zone": "Asia/Kabul",
-   "CallingCode":"+93",
    "CountryCode":"AF",
-   "CountryName":"Afghanistan",
-   "Anthem":"",
    "Motto":"لا إله إلا الله، محمد رسول الله Lā ʾilāha ʾillāl–lāh, Muhammadun rasūl allāh There is no god but God; Muhammad is the messenger of God. (Shahada)",
-   "GeneralInfo":{  
-      "Capital":"Kabul",
-      "Area":"250,000 sq mi (647,500 sq km)",
-      "Population":"31,822,848 (growth rate: 2.3%)",
-      "Language":"Pashto Dari",
-      "Currency":"Afghani",
-      "InternetTLD":".af افغانستان.",
-      "TimeZone":"D† (UTC+4:30 Solar Calendar)"
-   },
    "Government":[  
       {  
          "Title":"President",
@@ -32,34 +13,13 @@
       }
    ],
    "DateFormat":"",
-   "CurrentTime":"",
-   "Temperature":"",
    "BestPlaceToVisit":"",
    "Map":"http://i.infopls.com/images/mafghan.gif",
    "Geography":"Afghanistan, approximately the size of Texas, is bordered on the north by Turkmenistan, Uzbekistan, and Tajikistan, on the extreme northeast by China, on the east and south by Pakistan, and by Iran on the west. The country is split east to west by the Hindu Kush mountain range, rising in the east to heights of 24,000 ft (7,315 m). With the exception of the southwest, most of the country is covered by high snow-capped mountains and is traversed by deep valleys."
   },
   {  
-   "id":"C2",
-   "Flag":"http://i.infopls.com/images/albania.gif",
-   "Seal":{  
-      "Title":"Coat of arms",
-      "Image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Coat_of_arms_of_Albania.svg/397px-Coat_of_arms_of_Albania.svg.png"
-   },
-   "Zone": "Europe/Tirane",
-   "CallingCode":"+355",
    "CountryCode":"AL",
-   "CountryName":"Albania",
-   "Anthem":"",
    "Motto":"Ti Shqipëri, më jep nder, më jep emrin Shqipëtar",
-   "GeneralInfo":{  
-      "Capital":"Tirana",
-      "Area":"28,748 km2 (143rd) 11,100 sq mi",
-      "Population":"2,886,026[1]",
-      "Language":"Albaniana",
-      "Currency":"Lek (ALL)",
-      "InternetTLD":".al",
-      "TimeZone":"CET (UTC+1),CEST (UTC+2)"
-   },
    "Government":[  
       {  
          "Title":"President",
@@ -71,34 +31,16 @@
       }
    ],
    "DateFormat":"dd/mm/yyyy",
-   "CurrentTime":"",
-   "Temperature":"",
    "BestPlaceToVisit":"",
    "Map":"http://i.infopls.com/images/malbania.gif",
    "Geography":"Albania is situated on the eastern shore of the Adriatic Sea, with Montenegro and Serbia to the north, Macedonia to the east, and Greece to the south. Slightly larger than Maryland, Albania is composed of two major regions: a mountainous highland region (north, east, and south) constituting 70% of the land area, and a western coastal lowland region that contains nearly all of the country's agricultural land and is the most densely populated part of Albania."
 },
 {  
-   "id":"C3",
-   "Flag":"http://i.infopls.com/images/algeria.gif",
-   "Seal":{  
-      "Title":"Emblem",
-      "Image":"https://upload.wikimedia.org/wikipedia/commons/7/77/Seal_of_Algeria.svg"
-   },
-   "Zone": "Africa/Algiers",
-   "CallingCode":"+213",
    "CountryCode":"DZ",
-   "CountryName":"Algeria",
-   "Anthem":"",
+   "Flag":"http://i.infopls.com/images/antigua.gif",
+   "Seal": "https://upload.wikimedia.org/wikipedia/commons/3/30/Coat_of_arms_of_Antigua_and_Barbuda.svg",
    "Motto":"By the people and for the people",
-   "GeneralInfo":{  
-      "Capital":"Algiers",
-      "Area":"2,381,741 km2 (10th) 919,595 sq mi",
-      "Population":"40,400,000[6] (33rd)",
-      "Language":"Arabic, Berber",
-      "Currency":"Dinar (DZD)",
-      "InternetTLD":".dz",
-      "TimeZone":"CET (UTC+1)"
-   },
+   "Anthem": "",
    "Government":[  
       {  
          "Title":"President",
@@ -110,34 +52,13 @@
       }
    ],
    "DateFormat":"",
-   "CurrentTime":"",
-   "Temperature":"",
    "BestPlaceToVisit":"",
    "Map":"http://i.infopls.com/images/malgeria.gif",
    "Geography":"Nearly four times the size of Texas and the largest country on the continent, Algeria is bordered on the west by Morocco and Western Sahara and on the east by Tunisia and Libya. The Mediterranean Sea is to the north, and to the south are Mauritania, Mali, and Niger. The Saharan region, which is 85% of the country, is almost completely uninhabited. The highest point is Mount Tahat in the Sahara, which rises 9,850 ft (3,000 m)."
 },
 {  
-   "id":"C4",
-   "Flag":"http://i.infopls.com/images/andorra.gif",
-   "Seal":{  
-      "Title":"Coat of arms",
-      "Image":"https://upload.wikimedia.org/wikipedia/commons/4/4e/Coat_of_arms_of_Andorra.svg"
-   },
-   "Zone": "Europe/Andorra",
-   "CallingCode":"+376",
    "CountryCode":"AD",
-   "CountryName":"Andorra la Vella",
-   "Anthem":"",
    "Motto":"Virtus Unita Fortior United virtue is stronger",
-   "GeneralInfo":{  
-      "Capital":"Andorra la Vella",
-      "Area":"467.63 km2 (179th) 180.55 sq mi",
-      "Population":"85,470",
-      "Language":"Catalan,Spanish,French,Portuguese",
-      "Currency":"EURO",
-      "InternetTLD":".ad",
-      "TimeZone":"CET (UTC+1),CEST (UTC+2)"
-   },
    "Government":[  
       {  
          "Title":"Co-Princes",
@@ -153,34 +74,13 @@
       }
    ],
    "DateFormat":"",
-   "CurrentTime":"",
-   "Temperature":"",
    "BestPlaceToVisit":"",
    "Map":"http://i.infopls.com/images/mandorra.gif",
    "Geography":"Andorra is nestled high in the Pyrénées Mountains on the French-Spanish border."
 },
 {  
-   "id":"C5",
-   "Flag":"http://i.infopls.com/images/angola.gif",
-   "Seal":{  
-      "Title":"Emblem",
-      "Image":"https://upload.wikimedia.org/wikipedia/commons/0/03/Coat_of_arms_of_Angola.svg"
-   },
-   "Zone": "Africa/Luanda",
-   "CallingCode":"+244",
    "CountryCode":"AO",
-   "CountryName":"Angola",
-   "Anthem":"",
    "Motto":"",
-   "GeneralInfo":{  
-      "Capital":"Luanda",
-      "Area":"1,246,700 km2 (23rd) 481,354 sq mi",
-      "Population":"24,383,301",
-      "Language":"Portuguese,Kikongo,Chokwe,Umbundu,Kimbundu,Nganguela,Kwanyama",
-      "Currency":"Kwanza (AOA)",
-      "InternetTLD":".ao",
-      "TimeZone":"WAT (UTC+1)"
-   },
    "Government":[  
       {  
          "Title":"President",
@@ -192,34 +92,13 @@
       }
    ],
    "DateFormat":"",
-   "CurrentTime":"",
-   "Temperature":"",
    "BestPlaceToVisit":"",
    "Map":"http://i.infopls.com/images/mangola.gif",
    "Geography":"Angola, more than three times the size of California, extends for more than 1,000 mi (1,609 km) along the South Atlantic in southwest Africa. The Democratic Republic of the Congo and the Republic of Congo are to the north and east, Zambia is to the east, and Namibia is to the south. A plateau averaging 6,000 ft (1,829 m) above sea level rises abruptly from the coastal lowlands. Nearly all the land is desert or savanna, with hardwood forests in the northeast."
 },
 {  
-   "id":"C6",
-   "Flag":"http://i.infopls.com/images/antigua.gif",
-   "Seal":{  
-      "Title":"Coat of arms",
-      "Image":"https://upload.wikimedia.org/wikipedia/commons/3/30/Coat_of_arms_of_Antigua_and_Barbuda.svg"
-   },
-   "Zone": "America/Antigua",
-   "CallingCode":"+1-268",
    "CountryCode":"AG",
-   "CountryName":"Antigua and Barbuda",
-   "Anthem":"",
    "Motto":"Each Endeavouring, All Achieving",
-   "GeneralInfo":{  
-      "Capital":"St. John's",
-      "Area":"440 km2 (195th) 170 sq mi",
-      "Population":"91,295",
-      "Language":"English, Antiguan Creole",
-      "Currency":"East Caribbean dollar (XCD)",
-      "InternetTLD":".ag",
-      "TimeZone":"AST (UTC-4)"
-   },
    "Government":[  
       {  
          "Title":"Monarch",
@@ -235,12 +114,10 @@
       }
    ],
    "DateFormat":"",
-   "CurrentTime":"",
-   "Temperature":"",
    "BestPlaceToVisit":"",
    "Map":"http://i.infopls.com/images/mantigua.gif",
    "Geography":"Antigua, the larger of the two main islands, is 108 sq mi (280 sq km). The island dependencies of Redonda (an uninhabited rocky islet) and Barbuda (a coral island formerly known as Dulcina) are 0.5 sq mi (1.30 sq km) and 62 sq mi (161 sq km), respectively."
 }
 
 
-]}
+]
