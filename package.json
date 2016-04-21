@@ -9,7 +9,7 @@
     "lodash": "^4.11.1",
     "react": "^0.14.8",
     "react-native": "^0.23.1",
-    "react-native-search-bar": "^2.10.0",
-    "react-native-video": "^0.7.1"
+    "react-native-audioplayer": "^0.2.0",
+    "react-native-gifted-spinner": "0.0.3"
   }
 }
