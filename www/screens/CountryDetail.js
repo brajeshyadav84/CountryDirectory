@@ -26,7 +26,8 @@ var CountryDetail = React.createClass({
 	      selectedTab: 'Menu',
 	      dateTimeValue: '',
 	      weatherData: [],
-	      url: ''
+	      url: '',
+	      contentList: []
 	    }
 	},
 
@@ -48,12 +49,29 @@ var CountryDetail = React.createClass({
 
 	componentDidMount: function(){
 		var that = this;
-		that.setState({
-			contentList : that.props.menuContentList,
-			url: 'http://www.interviewgully.com/API/CD_V1/CountryAnthem/'+that.props.menuContentList.alpha2Code.toLowerCase()+'.mp3'
-		});
-		that.getCurrentTime();
-		that.getWeather();
+
+		fetch('http://www.interviewgully.com/API/CD_V1/CountryDetails.json').then((response) => response.text())
+	        .then((responseText) => {
+	          console.log(responseText);
+	          var objData = JSON.parse(responseText);
+
+	          var view = that.props.menuContentList.alpha2Code;
+			  var countryDetails = objData.filter(function (el) {
+				   return el.alpha2Code === view;
+			  })[0];
+	          
+	          that.setState({
+				contentList : countryDetails,
+				url: 'http://www.interviewgully.com/API/CD_V1/CountryAnthem/'+that.props.menuContentList.alpha2Code.toLowerCase()+'.mp3'
+			  });
+			  that.getCurrentTime();
+			  that.getWeather();
+	    })
+	    .catch((error) => {
+	        //console.warn(error);
+	    });
+
+		
 	},
 
 	DateConverter: function (UNIX_timestamp) {console.log("UNIX_timestamp ::");console.log(UNIX_timestamp);
@@ -83,8 +101,8 @@ var CountryDetail = React.createClass({
 		//http://timezonedb.com/time-zones
 		//http://api.timezonedb.com/?zone=Asia/Singapore&key=CO6L1T6M8DY5
 		//http://api.timezonedb.com/?zone=America/Toronto&format=json&key=YOUR_API_KEY
-		var lat = that.props.menuContentList.latlng[0];
-		var lng = that.props.menuContentList.latlng[1];
+		var lat = that.state.contentList.latlng[0];
+		var lng = that.state.contentList.latlng[1];
 		fetch('http://api.timezonedb.com/?lat='+ lat +'&lng='+ lng +'&format=json&key=CO6L1T6M8DY5').then((response) => response.text())
 			.then((responseText) => {
 			  var jsonData = JSON.parse(responseText);
@@ -102,7 +120,7 @@ var CountryDetail = React.createClass({
 		var that = this;
 		console.log("request Data");
 		var data = [];
-		var city = that.props.menuContentList.capital;
+		var city = that.state.contentList.capital;
 		//api.openweathermap.org/data/2.5/weather?q=singapore
 		fetch('http://api.openweathermap.org/data/2.5/weather?q='+city+'&units=metric&APPID=0edb015b02da2845bf09a5873ef016d3').then((response) => response.text())
 			.then((responseText) => {
@@ -140,7 +158,8 @@ var CountryDetail = React.createClass({
 
 	render: function(){
 	 	var that = this;
-	 	var contentList = that.props.menuContentList;
+	 	if(that.state.contentList.length == 0){return false;}
+	 	var contentList = that.state.contentList;
 	 	var header = contentList.name;
 	 	var timezone = "";
 	 	var language = "";
@@ -335,6 +354,13 @@ var CountryDetail = React.createClass({
 		                        </View>
 		                        <View style={IGStyle.otherLayout}> 
 		                          <Text style={IGStyle.fullText}> </Text>
+		                        </View>
+
+		                        <View style={IGStyle.subHeaderLayout}> 
+		                          <Text style={IGStyle.titleHeaderText}>Border Details </Text>
+		                        </View>
+		                        <View style={IGStyle.generalLayout}> 
+		                          <Text style={IGStyle.fullText}></Text>
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 

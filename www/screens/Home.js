@@ -55,7 +55,7 @@ var Home = React.createClass ({
   componentDidMount: function(){
       var that = this;
 
-      fetch('https://restcountries.eu/rest/v1/all').then((response) => response.text())
+      fetch('http://www.interviewgully.com/API/CD_V1/CountryList.json').then((response) => response.text())
         .then((responseText) => {
           console.log(responseText);
           var objData = JSON.parse(responseText);
