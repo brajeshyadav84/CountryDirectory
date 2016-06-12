@@ -188,6 +188,10 @@ var CountryDetail = React.createClass({
 			                          <Text style={IGStyle.titleText}>Native Name: </Text>
 			                          <Text>{contentList.nativeName}</Text>
 			                        </View>
+                                    <View style={IGStyle.otherSubLayout}> 
+			                          <Text style={IGStyle.titleText}>Currency: </Text>
+			                          <Text>{contentList.currencies[0]}</Text>
+			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Independence: </Text>
 			                          <Text></Text>
@@ -210,13 +214,6 @@ var CountryDetail = React.createClass({
 			                          	<Text style={IGStyle.linkText}>Click Here</Text>
 			                          </TouchableOpacity>
 			                        </View>
-		                        </View>
-
-		                        <View style={IGStyle.subHeaderLayout}> 
-		                          <Text style={IGStyle.titleHeaderText}>Government </Text>
-		                        </View>
-		                        <View style={IGStyle.generalLayout}> 
-		                          <Text>Government</Text>
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
@@ -246,10 +243,6 @@ var CountryDetail = React.createClass({
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>Language: </Text>
 				                          <Text>{language}</Text>
-			                          </View>
-			                          <View style={IGStyle.otherSubLayout}> 
-				                          <Text style={IGStyle.titleText}>Currency: </Text>
-				                          <Text>{contentList.currencies[0]}</Text>
 			                          </View>
 			                          <View style={IGStyle.otherSubLayout}> 
 				                          <Text style={IGStyle.titleText}>InternetTLD: </Text>
@@ -294,9 +287,43 @@ var CountryDetail = React.createClass({
 				                          <Text>{that.state.weatherData[4]}</Text>
 			                          </View>
 		                        </View>
-
+                                          
+                                <View style={IGStyle.subHeaderLayout}> 
+		                          <Text style={IGStyle.titleHeaderText}>Government </Text>
+		                        </View>
+		                        <View style={IGStyle.generalLayout}> 
+		                          <Text>Government</Text>
+		                        </View>
+                                
+                                <View style={IGStyle.subHeaderLayout}> 
+		                          <Text style={IGStyle.titleHeaderText}>Agriculture products </Text>
+		                        </View>
+		                        <View style={IGStyle.generalLayout}> 
+		                          <Text>Agriculture products</Text>
+		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
+		                          <Text style={IGStyle.titleHeaderText}>Industries </Text>
+		                        </View>
+		                        <View style={IGStyle.generalLayout}> 
+		                          <Text>Industries</Text>
+		                        </View>
+                                
+                                <View style={IGStyle.subHeaderLayout}> 
+		                          <Text style={IGStyle.titleHeaderText}>Exports partners </Text>
+		                        </View>
+		                        <View style={IGStyle.generalLayout}> 
+		                          <Text>Exports partners</Text>
+		                        </View>
+                                
+                                <View style={IGStyle.subHeaderLayout}> 
+		                          <Text style={IGStyle.titleHeaderText}>Imports partners </Text>
+		                        </View>
+		                        <View style={IGStyle.generalLayout}> 
+		                          <Text>Imports partners</Text>
+		                        </View>
+                                  
+                                <View style={IGStyle.subHeaderLayout}> 
 		                          <Text style={IGStyle.titleHeaderText}>Geography </Text>
 		                        </View>
 		                        <View style={IGStyle.generalLayout}> 
@@ -316,10 +343,7 @@ var CountryDetail = React.createClass({
 		                        <View style={IGStyle.mapLayout}> 
 		                          
 		                        </View>
-
-
 		                    </View>
-		                    
 				        </ScrollView>
 		        	</View>
 		);
