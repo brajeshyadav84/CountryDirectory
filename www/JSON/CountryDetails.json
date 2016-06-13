@@ -55,12 +55,15 @@
       "Motto":"",
       "BestPlaceToVisit":"",
       "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Geography":"Ahmad Shāh Durrānī (c.1723–1773), the founder of the Durrani Empire and regarded as the founder of present-day Afghanistan.",
+      "ImportsPartners":"Pakistan 24.3%, USA 18%, Russia 8.7%, India 5.8%, China 5.6%, Germany 4.4% (2012)",
+      "ExportsPartners":" Pakistan 32.2%, India 27%, Tajikistan 8.5%, USA 6.2% (2012)",
+      "Industries":"Small-scale production of textiles, soap, furniture, shoes, fertilizer, cement, handwoven carpets, natural gas, coal, copper",
+      "Agriculture":"Opium, wheat, corn, barley, rice, cotton, fruit, nuts, karakul pelts, wool, and mutton",
+      "Government":[
+         {"Type": "Islamic Republic"}
+      ],
+      "Independence": "19 August 1919"
    },
    {  
       "name":"Åland Islands",
@@ -116,7 +119,8 @@
       "ExportsPartners":"",
       "Industries":"",
       "Agriculture":"",
-      "Government":""
+      "Government":"",
+      "Independence": ""
    },
    {  
       "name":"Albania",
@@ -173,11 +177,14 @@
       "BestPlaceToVisit":"",
       "Map":"",
       "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "ImportsPartners":"Italy 31.9%, Greece 9.5%, China 6.4%, Germany 6%, Turkey 5.7% (2012)",
+      "ExportsPartners":"Italy 51.1%, Spain 9.2%, Turkey 6.3%, Greece 4.4% (2012)",
+      "Industries":"Food processing, textiles and clothing; lumber, oil, cement, chemicals, mining, basic metals, hydropower",
+      "Agriculture":"Wheat, corn, potatoes, vegetables, fruits, sugar beets, grapes; meat, dairy products",
+      "Government":[
+         {"Type": "Parliamentary republic"}
+      ],
+      "Independence": "28 November 1912 (from the Ottoman Empire)"
    },
    {  
       "name":"Algeria",
@@ -235,12 +242,15 @@
       "Motto":"",
       "BestPlaceToVisit":"",
       "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Geography":"Khair ad Din, also known as Barbarossa Hayreddin Pasha, considered to be the founder of modern Algeria.",
+      "ImportsPartners":"France 12.8%, China 11.8%, Italy 10.3%, Spain 8.6%, Germany 5.2% (2012)",
+      "ExportsPartners":"Italy 16%, USA 15%, Spain 10.9%, France 8.5%, Netherlands 7.3%, Canada 7.1%, UK 5.1%, Brazil 4.7% (2012)",
+      "Industries":"Petroleum, natural gas, light industries, mining, electrical, petrochemical, food processing",
+      "Agriculture":"Wheat, barley, oats, grapes, olives, citrus, fruits, sheep, cattle",
+      "Government":[
+         {"Type": "republic"}
+      ],
+      "Independence": "5 July 1962 (from France)"
    },
    {  
       "name":"American Samoa",
@@ -296,8 +306,11 @@
       "ImportsPartners":"",
       "ExportsPartners":"",
       "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Agriculture":"Bananas, coconuts, vegetables, taro, breadfruit, yams, copra, pineapples, papayas; dairy products, livestock, fish",
+      "Government":[
+         {"Type": null}
+      ],
+      "Independence": null
    },
    {  
       "name":"Andorra",
@@ -355,7 +368,8 @@
       "ExportsPartners":"",
       "Industries":"",
       "Agriculture":"",
-      "Government":""
+      "Government":"",
+      "Independence": "with the signing of the Pariatges 1278-1288"
    },
    {  
       "name":"Angola",
@@ -411,11 +425,14 @@
       "BestPlaceToVisit":"",
       "Map":"",
       "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "ImportsPartners":"China 20.9%, Portugal 19.5%, US 7.7%, South Africa 7.1%, Brazil 5.9% (2012)",
+      "ExportsPartners":"China 46.3%, USA 13.9%, India 10.1%, South Africa 4.2% (2012)",
+      "Industries":"Petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold; cement; basic metal products; fish processing; food processing; brewing; tobacco products; sugar; textiles",
+      "Agriculture":"Bananas, sugarcane, coffee, sisal, corn, cotton, manioc (tapioca), tobacco, vegetables, plantains, livestock, forest products, fish",
+      "Government":[
+         {"Type": "republic"}
+      ],
+      "Independence": "11 November 1975 (from Portugal)"
    },
    {  
       "name":"Anguilla",
