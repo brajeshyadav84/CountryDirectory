@@ -481,11 +481,12 @@
       "BestPlaceToVisit":"",
       "Map":"",
       "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "ImportsPartners":"USA, Puerto Rico, UK",
+      "ExportsPartners":"UK, USA, Puerto Rico",
+      "Industries":"Tourism, boat building, offshore financial services",
+      "Agriculture":"Tobacco, vegetables, cattle raising",
+      "Government":[{"Type": "Internally self-governing British overseas territory"}],
+      "Independence": null
    },
    {  
       "name":"Antigua and Barbuda",
@@ -536,11 +537,12 @@
       "BestPlaceToVisit":"",
       "Map":"",
       "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "ImportsPartners":"USA, UK, Canada, China and other CARICOM countries",
+      "ExportsPartners":"USA, UK, Canada, China and other CARICOM countries",
+      "Industries":"Tourism, construction, light manufacturing (clothing, alcohol, household appliances)",
+      "Agriculture":"Cotton, fruits, vegetables, bananas, coconuts, cucumbers, mangoes, sugarcane; livestock",
+      "Government":[{"Type": "Constitutional monarchy with Westminster-style Parliament"}],
+      "Independence": "1 November 1981 (from the UK)"
    },
    {  
       "name":"Argentina",
@@ -598,11 +600,12 @@
       "BestPlaceToVisit":"",
       "Map":"",
       "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "ImportsPartners":"Brazil 27.2%, USA 15.6%, China 11.9%, Germany 4.5% (2012)",
+      "ExportsPartners":"Brazil 20.4%, China 7.4%, Chile 6%, USA 5.2% (2012)",
+      "Industries":"Food processing, motor vehicles, oil refining, machinery and equipment, textiles, chemicals and petrochemicals",
+      "Agriculture":"Grains, oilseeds and by-products, lemons, soybeans, grapes, corn, tobacco, peanuts, tea, wheat; livestock",
+      "Government":[{"Type": "Republic"}],
+      "Independence": "9 July 1816 (from Spain). Constitution: 1 May 1853; revised August 1994"
    },
    {  
       "name":"Armenia",
@@ -662,9 +665,10 @@
       "Geography":"",
       "ImportsPartners":"",
       "ExportsPartners":"",
-      "Industries":"",
+      "Industries":"Diamond-processing, metal-cutting machine tools, forging-pressing machines, electric motors, tires, knitted wear, hosiery, shoes, silk fabric, chemicals, trucks, instruments, microelectronics, jewelry manufacturing, software development, food processing, brandy",
       "Agriculture":"",
-      "Government":""
+      "Government":[{"Type": "Republic with a presidential governing system"}],
+      "Independence": "(from Turkey, the then declining Ottoman Empire) 1918; First Armenian Republic. 21 September 1991 (from the Soviet Union)"
    },
    {  
       "name":"Aruba",
@@ -714,11 +718,12 @@
       "BestPlaceToVisit":"",
       "Map":"",
       "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "ImportsPartners":"USA 55%, Netherlands 13.8%, Venezuela 3.5%",
+      "ExportsPartners":"USA 79.9%, Netherlands 4.3%, Canada 3.7%",
+      "Industries":"Tourism, transshipment facilities, oil refining",
+      "Agriculture":"Aloes; livestock, fish",
+      "Government":[{"Type": "Parliamentary Democracy"}],
+      "Independence": null
    },
    {  
       "name":"Australia",
@@ -776,11 +781,12 @@
       "BestPlaceToVisit":"",
       "Map":"",
       "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "ImportsPartners":"China 18.4%, USA 11.7%, Japan 7.9%, Singapore 6%, Germany 4.6%, Thailand 4.2%, South Korea 4.1% (2012)",
+      "ExportsPartners":"China 29.5%, Japan 19.3%, South Korea 8%, India 4.9% (2012), USA 6,7%, 6.4%, New Zealand 5,7%, 5,7%, UK 5.2%, Taiwan 2.6% (2003) ",
+      "Industries":"Mining, industrial and transportation equipment, food processing, chemicals, steel",
+      "Agriculture":"Wheat, barley, sugarcane, fruits; cattle, sheep, poultry",
+      "Government":[{"Type": "Democratic, federal-state system recognizing British monarch as sovereign"}],
+      "Independence": "1 January 1901"
    },
    {  
       "name":"Austria",
@@ -841,11 +847,12 @@
       "BestPlaceToVisit":"",
       "Map":"",
       "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "ImportsPartners":"Germany 40.39%, Italy 6.13%, Switzerland 5.36% (2013 est.)",
+      "ExportsPartners":"Germany 29.31%, Italy 6.25%, Switzerland 5.08%, USA 5%, France 4.27% (2013 est.)",
+      "Industries":"Construction, machinery, vehicles and parts, food, chemicals, lumber and wood processing, paper and paperboard, communications equipment, tourism",
+      "Agriculture":"Drains, potatoes, sugar beets, wine, fruit; dairy products, cattle, pigs, poultry; lumber",
+      "Government":[{"Type": "Parliamentary democracy"}],
+      "Independence": "Constitution: 1920; revised 1929 (reinstated May 1, 1945)"
    },
    {  
       "name":"Azerbaijan",
@@ -905,9 +912,10 @@
       "Geography":"",
       "ImportsPartners":"",
       "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Industries":"Petroleum and natural gas, petroleum products, oilfield equipment; steel, iron ore; cement; chemicals and petrochemicals; textiles",
+      "Agriculture":"Cotton, tobacco, grain, rice, grapes, fruit, vegetables, tea, cattle, pigs, sheep, goats",
+      "Government":[{"Type": "Republic"}],
+      "Independence": "30 August 1991 (from Soviet Union). Constitution: Approved in November 1995 referendum"
    },
    {  
       "name":"The Bahamas",
