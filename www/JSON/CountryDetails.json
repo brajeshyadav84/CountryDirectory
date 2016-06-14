@@ -52,9 +52,9 @@
          "uz",
          "tk"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
       "Geography":"Ahmad Shāh Durrānī (c.1723–1773), the founder of the Durrani Empire and regarded as the founder of present-day Afghanistan.",
       "ImportsPartners":"Pakistan 24.3%, USA 18%, Russia 8.7%, India 5.8%, China 5.6%, Germany 4.4% (2012)",
       "ExportsPartners":" Pakistan 32.2%, India 27%, Tajikistan 8.5%, USA 6.2% (2012)",
@@ -111,16 +111,16 @@
       "languages":[  
          "sv"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":"",
-      "Independence": ""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null,
+      "Independence": null
    },
    {  
       "name":"Albania",
@@ -173,10 +173,10 @@
       "languages":[  
          "sq"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
       "ImportsPartners":"Italy 31.9%, Greece 9.5%, China 6.4%, Germany 6%, Turkey 5.7% (2012)",
       "ExportsPartners":"Italy 51.1%, Spain 9.2%, Turkey 6.3%, Greece 4.4% (2012)",
       "Industries":"Food processing, textiles and clothing; lumber, oil, cement, chemicals, mining, basic metals, hydropower",
@@ -239,9 +239,9 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
       "Geography":"Khair ad Din, also known as Barbarossa Hayreddin Pasha, considered to be the founder of modern Algeria.",
       "ImportsPartners":"France 12.8%, China 11.8%, Italy 10.3%, Spain 8.6%, Germany 5.2% (2012)",
       "ExportsPartners":"Italy 16%, USA 15%, Spain 10.9%, France 8.5%, Netherlands 7.3%, Canada 7.1%, UK 5.1%, Brazil 4.7% (2012)",
@@ -299,13 +299,13 @@
          "en",
          "sm"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
       "Agriculture":"Bananas, coconuts, vegetables, taro, breadfruit, yams, copra, pineapples, papayas; dairy products, livestock, fish",
       "Government":[
          {"Type": null}
@@ -360,15 +360,15 @@
       "languages":[  
          "ca"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":"",
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null,
       "Independence": "with the signing of the Pariatges 1278-1288"
    },
    {  
@@ -421,10 +421,10 @@
       "languages":[  
          "pt"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
       "ImportsPartners":"China 20.9%, Portugal 19.5%, US 7.7%, South Africa 7.1%, Brazil 5.9% (2012)",
       "ExportsPartners":"China 46.3%, USA 13.9%, India 10.1%, South Africa 4.2% (2012)",
       "Industries":"Petroleum; diamonds, iron ore, phosphates, feldspar, bauxite, uranium, and gold; cement; basic metal products; fish processing; food processing; brewing; tobacco products; sugar; textiles",
@@ -477,10 +477,10 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
       "ImportsPartners":"USA, Puerto Rico, UK",
       "ExportsPartners":"UK, USA, Puerto Rico",
       "Industries":"Tourism, boat building, offshore financial services",
@@ -533,10 +533,10 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
       "ImportsPartners":"USA, UK, Canada, China and other CARICOM countries",
       "ExportsPartners":"USA, UK, Canada, China and other CARICOM countries",
       "Industries":"Tourism, construction, light manufacturing (clothing, alcohol, household appliances)",
@@ -596,10 +596,10 @@
          "es",
          "gn"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
       "ImportsPartners":"Brazil 27.2%, USA 15.6%, China 11.9%, Germany 4.5% (2012)",
       "ExportsPartners":"Brazil 20.4%, China 7.4%, Chile 6%, USA 5.2% (2012)",
       "Industries":"Food processing, motor vehicles, oil refining, machinery and equipment, textiles, chemicals and petrochemicals",
@@ -659,14 +659,14 @@
          "hy",
          "ru"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
       "Industries":"Diamond-processing, metal-cutting machine tools, forging-pressing machines, electric motors, tires, knitted wear, hosiery, shoes, silk fabric, chemicals, trucks, instruments, microelectronics, jewelry manufacturing, software development, food processing, brandy",
-      "Agriculture":"",
+      "Agriculture":null,
       "Government":[{"Type": "Republic with a presidential governing system"}],
       "Independence": "(from Turkey, the then declining Ottoman Empire) 1918; First Armenian Republic. 21 September 1991 (from the Soviet Union)"
    },
@@ -714,10 +714,10 @@
          "nl",
          "pa"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
       "ImportsPartners":"USA 55%, Netherlands 13.8%, Venezuela 3.5%",
       "ExportsPartners":"USA 79.9%, Netherlands 4.3%, Canada 3.7%",
       "Industries":"Tourism, transshipment facilities, oil refining",
@@ -777,10 +777,10 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
       "ImportsPartners":"China 18.4%, USA 11.7%, Japan 7.9%, Singapore 6%, Germany 4.6%, Thailand 4.2%, South Korea 4.1% (2012)",
       "ExportsPartners":"China 29.5%, Japan 19.3%, South Korea 8%, India 4.9% (2012), USA 6,7%, 6.4%, New Zealand 5,7%, 5,7%, UK 5.2%, Taiwan 2.6% (2003) ",
       "Industries":"Mining, industrial and transportation equipment, food processing, chemicals, steel",
@@ -843,10 +843,10 @@
       "languages":[  
          "de"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
       "ImportsPartners":"Germany 40.39%, Italy 6.13%, Switzerland 5.36% (2013 est.)",
       "ExportsPartners":"Germany 29.31%, Italy 6.25%, Switzerland 5.08%, USA 5%, France 4.27% (2013 est.)",
       "Industries":"Construction, machinery, vehicles and parts, food, chemicals, lumber and wood processing, paper and paperboard, communications equipment, tourism",
@@ -906,12 +906,12 @@
          "az",
          "hy"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
       "Industries":"Petroleum and natural gas, petroleum products, oilfield equipment; steel, iron ore; cement; chemicals and petrochemicals; textiles",
       "Agriculture":"Cotton, tobacco, grain, rice, grapes, fruit, vegetables, tea, cattle, pigs, sheep, goats",
       "Government":[{"Type": "Republic"}],
@@ -963,15 +963,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Bahrain",
@@ -1020,15 +1020,15 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Bangladesh",
@@ -1078,15 +1078,15 @@
       "languages":[  
          "bn"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Barbados",
@@ -1133,15 +1133,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Belarus",
@@ -1199,15 +1199,15 @@
          "be",
          "ru"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Belgium",
@@ -1267,15 +1267,15 @@
          "fr",
          "de"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Belize",
@@ -1324,15 +1324,15 @@
          "en",
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Benin",
@@ -1384,15 +1384,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Bermuda",
@@ -1440,15 +1440,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Bhutan",
@@ -1498,15 +1498,15 @@
       "languages":[  
          "dz"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Bolivia",
@@ -1567,15 +1567,15 @@
          "ay",
          "qu"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Bonaire",
@@ -1622,15 +1622,15 @@
       "languages":[  
          "nl"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Bosnia and Herzegovina",
@@ -1683,15 +1683,15 @@
          "hr",
          "sr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Botswana",
@@ -1744,27 +1744,27 @@
          "en",
          "tn"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Bouvet Island",
-      "capital":"",
+      "capital":null,
       "altSpellings":[  
          "BV",
          "Bouvetøya",
          "Bouvet-øya"
       ],
       "relevance":"0",
-      "region":"",
-      "subregion":"",
+      "region":null,
+      "subregion":null,
       "translations":{  
          "de":"Bouvetinsel",
          "es":"Isla Bouvet",
@@ -1777,7 +1777,7 @@
          -54.43333333,
          3.4
       ],
-      "demonym":"",
+      "demonym":null,
       "area":49,
       "gini":null,
       "timezones":null,
@@ -1786,7 +1786,7 @@
       ],
       "nativeName":"Bouvetøya",
       "callingCodes":[  
-         ""
+         null
       ],
       "topLevelDomain":[  
          ".bv"
@@ -1799,15 +1799,15 @@
       "languages":[  
 
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Brazil",
@@ -1869,15 +1869,15 @@
       "languages":[  
          "pt"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"British Indian Ocean Territory",
@@ -1922,19 +1922,19 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"United States Minor Outlying Islands",
-      "capital":"",
+      "capital":null,
       "altSpellings":[  
          "UM"
       ],
@@ -1961,7 +1961,7 @@
       ],
       "nativeName":"United States Minor Outlying Islands",
       "callingCodes":[  
-         ""
+         null
       ],
       "topLevelDomain":[  
          ".us"
@@ -1974,15 +1974,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"British Virgin Islands",
@@ -2027,15 +2027,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Brunei",
@@ -2084,15 +2084,15 @@
       "languages":[  
          "ms"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Bulgaria",
@@ -2145,15 +2145,15 @@
       "languages":[  
          "bg"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Burkina Faso",
@@ -2206,15 +2206,15 @@
          "fr",
          "ff"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Burundi",
@@ -2267,15 +2267,15 @@
          "fr",
          "rn"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Cambodia",
@@ -2325,15 +2325,15 @@
       "languages":[  
          "km"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Cameroon",
@@ -2388,15 +2388,15 @@
          "en",
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Canada",
@@ -2449,15 +2449,15 @@
          "en",
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Cape Verde",
@@ -2506,15 +2506,15 @@
       "languages":[  
          "pt"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Cayman Islands",
@@ -2559,15 +2559,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Central African Republic",
@@ -2622,15 +2622,15 @@
          "fr",
          "sg"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Chad",
@@ -2686,15 +2686,15 @@
          "fr",
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Chile",
@@ -2747,15 +2747,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"China",
@@ -2822,15 +2822,15 @@
       "languages":[  
          "zh"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Christmas Island",
@@ -2876,15 +2876,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Cocos (Keeling) Islands",
@@ -2931,15 +2931,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Colombia",
@@ -2992,15 +2992,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Comoros",
@@ -3052,15 +3052,15 @@
          "ar",
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Republic of the Congo",
@@ -3113,15 +3113,15 @@
          "fr",
          "ln"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Democratic Republic of the Congo",
@@ -3184,15 +3184,15 @@
          "sw",
          "lu"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Cook Islands",
@@ -3238,15 +3238,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Costa Rica",
@@ -3296,15 +3296,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Croatia",
@@ -3358,15 +3358,15 @@
       "languages":[  
          "hr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Cuba",
@@ -3416,15 +3416,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Curaçao",
@@ -3476,15 +3476,15 @@
          "pa",
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Cyprus",
@@ -3538,15 +3538,15 @@
          "tr",
          "hy"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Czech Republic",
@@ -3599,15 +3599,15 @@
          "cs",
          "sk"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Denmark",
@@ -3661,15 +3661,15 @@
       "languages":[  
          "da"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Djibouti",
@@ -3725,15 +3725,15 @@
          "fr",
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Dominica",
@@ -3783,15 +3783,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Dominican Republic",
@@ -3840,15 +3840,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Ecuador",
@@ -3899,15 +3899,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Egypt",
@@ -3957,15 +3957,15 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"El Salvador",
@@ -4016,15 +4016,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Equatorial Guinea",
@@ -4077,15 +4077,15 @@
          "es",
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Eritrea",
@@ -4097,7 +4097,7 @@
          "Dawlat Iritriyá",
          "ʾErtrā",
          "Iritriyā",
-         ""
+         null
       ],
       "relevance":"0",
       "region":"Africa",
@@ -4142,15 +4142,15 @@
          "ar",
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Estonia",
@@ -4201,15 +4201,15 @@
       "languages":[  
          "et"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Ethiopia",
@@ -4264,15 +4264,15 @@
       "languages":[  
          "am"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Falkland Islands",
@@ -4318,15 +4318,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Faroe Islands",
@@ -4373,15 +4373,15 @@
       "languages":[  
          "fo"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Fiji",
@@ -4435,15 +4435,15 @@
          "hi",
          "ur"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Finland",
@@ -4497,15 +4497,15 @@
          "fi",
          "sv"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"France",
@@ -4572,15 +4572,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"French Guiana",
@@ -4605,7 +4605,7 @@
          4,
          -53
       ],
-      "demonym":"",
+      "demonym":null,
       "area":null,
       "gini":null,
       "timezones":null,
@@ -4628,15 +4628,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"French Polynesia",
@@ -4684,15 +4684,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"French Southern and Antarctic Lands",
@@ -4701,8 +4701,8 @@
          "TF"
       ],
       "relevance":"0",
-      "region":"",
-      "subregion":"",
+      "region":null,
+      "subregion":null,
       "translations":{  
          "de":"Französische Süd- und Antarktisgebiete",
          "es":"Tierras Australes y Antárticas Francesas",
@@ -4724,7 +4724,7 @@
       ],
       "nativeName":"Territoire des Terres australes et antarctiques françaises",
       "callingCodes":[  
-         ""
+         null
       ],
       "topLevelDomain":[  
          ".tf"
@@ -4737,15 +4737,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Gabon",
@@ -4796,15 +4796,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"The Gambia",
@@ -4850,15 +4850,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Georgia",
@@ -4907,15 +4907,15 @@
       "languages":[  
          "ka"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Germany",
@@ -4972,15 +4972,15 @@
       "languages":[  
          "de"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Ghana",
@@ -5029,15 +5029,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Gibraltar",
@@ -5082,15 +5082,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Greece",
@@ -5143,15 +5143,15 @@
       "languages":[  
          "el"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Greenland",
@@ -5197,15 +5197,15 @@
       "languages":[  
          "kl"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Grenada",
@@ -5252,15 +5252,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Guadeloupe",
@@ -5306,15 +5306,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Guam",
@@ -5362,15 +5362,15 @@
          "ch",
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Guatemala",
@@ -5420,15 +5420,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Guernsey",
@@ -5476,15 +5476,15 @@
          "en",
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Guinea",
@@ -5539,15 +5539,15 @@
          "fr",
          "ff"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Guinea-Bissau",
@@ -5597,15 +5597,15 @@
       "languages":[  
          "pt"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Guyana",
@@ -5655,15 +5655,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Haiti",
@@ -5715,25 +5715,25 @@
          "fr",
          "ht"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Heard Island and McDonald Islands",
-      "capital":"",
+      "capital":null,
       "altSpellings":[  
          "HM"
       ],
       "relevance":"0",
-      "region":"",
-      "subregion":"",
+      "region":null,
+      "subregion":null,
       "translations":{  
          "de":"Heard und die McDonaldinseln",
          "es":"Islas Heard y McDonald",
@@ -5755,7 +5755,7 @@
       ],
       "nativeName":"Heard Island and McDonald Islands",
       "callingCodes":[  
-         ""
+         null
       ],
       "topLevelDomain":[  
          ".hm",
@@ -5769,15 +5769,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Honduras",
@@ -5828,15 +5828,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Hong Kong",
@@ -5885,15 +5885,15 @@
          "en",
          "zh"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Hungary",
@@ -5946,15 +5946,15 @@
       "languages":[  
          "hu"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Iceland",
@@ -6004,15 +6004,15 @@
       "languages":[  
          "is"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"India",
@@ -6070,15 +6070,15 @@
          "hi",
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Indonesia",
@@ -6131,15 +6131,15 @@
       "languages":[  
          "id"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Ivory Coast",
@@ -6193,15 +6193,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Iran",
@@ -6256,15 +6256,15 @@
       "languages":[  
          "fa"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Iraq",
@@ -6319,15 +6319,15 @@
          "ar",
          "ku"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Republic of Ireland",
@@ -6378,15 +6378,15 @@
          "ga",
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Isle of Man",
@@ -6435,15 +6435,15 @@
          "en",
          "gv"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Israel",
@@ -6496,15 +6496,15 @@
          "he",
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Italy",
@@ -6558,15 +6558,15 @@
       "languages":[  
          "it"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Jamaica",
@@ -6613,15 +6613,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Japan",
@@ -6670,15 +6670,15 @@
       "languages":[  
          "ja"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Jersey",
@@ -6727,15 +6727,15 @@
          "en",
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Jordan",
@@ -6787,15 +6787,15 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Kazakhstan",
@@ -6857,15 +6857,15 @@
          "kk",
          "ru"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Kenya",
@@ -6919,15 +6919,15 @@
          "en",
          "sw"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Kiribati",
@@ -6978,15 +6978,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Kuwait",
@@ -7036,15 +7036,15 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Kyrgyzstan",
@@ -7099,15 +7099,15 @@
          "ky",
          "ru"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Laos",
@@ -7161,15 +7161,15 @@
       "languages":[  
          "lo"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Latvia",
@@ -7221,15 +7221,15 @@
       "languages":[  
          "lv"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Lebanon",
@@ -7280,15 +7280,15 @@
          "ar",
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Lesotho",
@@ -7339,15 +7339,15 @@
          "en",
          "st"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Liberia",
@@ -7397,15 +7397,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Libya",
@@ -7459,15 +7459,15 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Liechtenstein",
@@ -7517,15 +7517,15 @@
       "languages":[  
          "de"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Lithuania",
@@ -7577,15 +7577,15 @@
       "languages":[  
          "lt"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Luxembourg",
@@ -7640,19 +7640,19 @@
          "de",
          "lb"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Macau",
-      "capital":"",
+      "capital":null,
       "altSpellings":[  
          "MO",
          "澳门",
@@ -7700,15 +7700,15 @@
          "zh",
          "pt"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Republic of Macedonia",
@@ -7761,15 +7761,15 @@
       "languages":[  
          "mk"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Madagascar",
@@ -7820,15 +7820,15 @@
          "fr",
          "mg"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Malawi",
@@ -7879,15 +7879,15 @@
          "en",
          "ny"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Malaysia",
@@ -7936,15 +7936,15 @@
       "languages":[  
 
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Maldives",
@@ -7994,15 +7994,15 @@
       "languages":[  
          "dv"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Mali",
@@ -8057,15 +8057,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Malta",
@@ -8115,15 +8115,15 @@
          "mt",
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Marshall Islands",
@@ -8173,15 +8173,15 @@
          "en",
          "mh"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Martinique",
@@ -8226,15 +8226,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Mauritania",
@@ -8286,15 +8286,15 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Mauritius",
@@ -8343,15 +8343,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Mayotte",
@@ -8398,15 +8398,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Mexico",
@@ -8460,15 +8460,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Federated States of Micronesia",
@@ -8517,15 +8517,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Moldova",
@@ -8575,15 +8575,15 @@
       "languages":[  
          "ro"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Monaco",
@@ -8632,15 +8632,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Mongolia",
@@ -8689,15 +8689,15 @@
       "languages":[  
          "mn"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Montenegro",
@@ -8752,15 +8752,15 @@
          "sq",
          "hr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Montserrat",
@@ -8805,15 +8805,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Morocco",
@@ -8864,15 +8864,15 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Mozambique",
@@ -8926,15 +8926,15 @@
       "languages":[  
          "pt"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Myanmar",
@@ -8988,15 +8988,15 @@
       "languages":[  
          "my"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Namibia",
@@ -9050,15 +9050,15 @@
          "en",
          "af"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Nauru",
@@ -9110,15 +9110,15 @@
          "en",
          "na"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Nepal",
@@ -9168,15 +9168,15 @@
       "languages":[  
          "ne"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Netherlands",
@@ -9224,15 +9224,15 @@
       "languages":[  
          "nl"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"New Caledonia",
@@ -9277,15 +9277,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"New Zealand",
@@ -9338,15 +9338,15 @@
          "en",
          "mi"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Nicaragua",
@@ -9396,15 +9396,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Niger",
@@ -9460,15 +9460,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Nigeria",
@@ -9521,15 +9521,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Niue",
@@ -9574,15 +9574,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Norfolk Island",
@@ -9629,15 +9629,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"North Korea",
@@ -9689,15 +9689,15 @@
       "languages":[  
          "ko"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Northern Mariana Islands",
@@ -9745,15 +9745,15 @@
          "en",
          "ch"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Norway",
@@ -9809,15 +9809,15 @@
          "nb",
          "nn"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Oman",
@@ -9868,15 +9868,15 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Pakistan",
@@ -9930,15 +9930,15 @@
          "en",
          "ur"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Palau",
@@ -9987,15 +9987,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Palestine",
@@ -10044,15 +10044,15 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Panama",
@@ -10103,15 +10103,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Papua New Guinea",
@@ -10160,15 +10160,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Paraguay",
@@ -10221,15 +10221,15 @@
          "es",
          "gn"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Peru",
@@ -10282,15 +10282,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Philippines",
@@ -10339,15 +10339,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Pitcairn Islands",
@@ -10393,15 +10393,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Poland",
@@ -10456,15 +10456,15 @@
       "languages":[  
          "pl"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Portugal",
@@ -10515,15 +10515,15 @@
       "languages":[  
          "pt"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Puerto Rico",
@@ -10572,15 +10572,15 @@
          "es",
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Qatar",
@@ -10629,15 +10629,15 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Republic of Kosovo",
@@ -10676,7 +10676,7 @@
          "383"
       ],
       "topLevelDomain":[  
-         ""
+         null
       ],
       "alpha2Code":"XK",
       "alpha3Code":"KOS",
@@ -10687,15 +10687,15 @@
          "sq",
          "sr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Réunion",
@@ -10741,15 +10741,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Romania",
@@ -10803,15 +10803,15 @@
       "languages":[  
          "ro"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Russia",
@@ -10883,15 +10883,15 @@
       "languages":[  
          "ru"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Rwanda",
@@ -10946,15 +10946,15 @@
          "en",
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Saint Barthélemy",
@@ -11002,15 +11002,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Saint Helena",
@@ -11055,15 +11055,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Saint Kitts and Nevis",
@@ -11111,15 +11111,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Saint Lucia",
@@ -11166,15 +11166,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Saint Martin",
@@ -11226,15 +11226,15 @@
          "fr",
          "nl"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Saint Pierre and Miquelon",
@@ -11280,15 +11280,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Saint Vincent and the Grenadines",
@@ -11335,15 +11335,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Samoa",
@@ -11393,15 +11393,15 @@
          "sm",
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"San Marino",
@@ -11450,15 +11450,15 @@
       "languages":[  
          "it"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"São Tomé and Príncipe",
@@ -11507,15 +11507,15 @@
       "languages":[  
          "pt"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Saudi Arabia",
@@ -11570,15 +11570,15 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Senegal",
@@ -11631,15 +11631,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Serbia",
@@ -11697,15 +11697,15 @@
       "languages":[  
          "sr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Seychelles",
@@ -11756,15 +11756,15 @@
          "fr",
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Sierra Leone",
@@ -11813,15 +11813,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Singapore",
@@ -11874,15 +11874,15 @@
          "ta",
          "zh"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Sint Maarten",
@@ -11928,15 +11928,15 @@
          "nl",
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Slovakia",
@@ -11989,15 +11989,15 @@
       "languages":[  
          "sk"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Slovenia",
@@ -12049,15 +12049,15 @@
       "languages":[  
          "sl"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Solomon Islands",
@@ -12104,15 +12104,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Somalia",
@@ -12166,15 +12166,15 @@
          "so",
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"South Africa",
@@ -12238,15 +12238,15 @@
          "xh",
          "zu"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"South Georgia",
@@ -12292,15 +12292,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"South Korea",
@@ -12348,15 +12348,15 @@
       "languages":[  
          "ko"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"South Sudan",
@@ -12408,15 +12408,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Spain",
@@ -12470,15 +12470,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Sri Lanka",
@@ -12528,15 +12528,15 @@
          "si",
          "ta"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Sudan",
@@ -12592,15 +12592,15 @@
          "ar",
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Suriname",
@@ -12654,15 +12654,15 @@
       "languages":[  
          "nl"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Svalbard and Jan Mayen",
@@ -12708,15 +12708,15 @@
       "languages":[  
          "no"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Swaziland",
@@ -12770,15 +12770,15 @@
          "en",
          "ss"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Sweden",
@@ -12828,15 +12828,15 @@
       "languages":[  
          "sv"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Switzerland",
@@ -12896,15 +12896,15 @@
          "fr",
          "it"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Syria",
@@ -12957,15 +12957,15 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Taiwan",
@@ -13016,15 +13016,15 @@
       "languages":[  
          "zh"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Tajikistan",
@@ -13079,15 +13079,15 @@
          "tg",
          "ru"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Tanzania",
@@ -13144,15 +13144,15 @@
          "sw",
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Thailand",
@@ -13207,15 +13207,15 @@
       "languages":[  
          "th"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"East Timor",
@@ -13266,15 +13266,15 @@
       "languages":[  
          "pt"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Togo",
@@ -13326,15 +13326,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Tokelau",
@@ -13379,15 +13379,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Tonga",
@@ -13435,15 +13435,15 @@
          "en",
          "to"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Trinidad and Tobago",
@@ -13491,15 +13491,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Tunisia",
@@ -13549,15 +13549,15 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Turkey",
@@ -13614,15 +13614,15 @@
       "languages":[  
          "tr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Turkmenistan",
@@ -13673,15 +13673,15 @@
          "tk",
          "ru"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Turks and Caicos Islands",
@@ -13726,15 +13726,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Tuvalu",
@@ -13781,15 +13781,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Uganda",
@@ -13843,15 +13843,15 @@
          "en",
          "sw"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Ukraine",
@@ -13905,15 +13905,15 @@
       "languages":[  
          "uk"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"United Arab Emirates",
@@ -13962,15 +13962,15 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"United Kingdom",
@@ -14027,15 +14027,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"United States",
@@ -14097,15 +14097,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Uruguay",
@@ -14156,15 +14156,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Uzbekistan",
@@ -14219,15 +14219,15 @@
          "uz",
          "ru"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Vanuatu",
@@ -14279,15 +14279,15 @@
          "en",
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Venezuela",
@@ -14338,15 +14338,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Vietnam",
@@ -14397,15 +14397,15 @@
       "languages":[  
          "vi"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Wallis and Futuna",
@@ -14452,15 +14452,15 @@
       "languages":[  
          "fr"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Western Sahara",
@@ -14510,15 +14510,15 @@
       "languages":[  
          "es"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Yemen",
@@ -14568,15 +14568,15 @@
       "languages":[  
          "ar"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Zambia",
@@ -14631,15 +14631,15 @@
       "languages":[  
          "en"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    },
    {  
       "name":"Zimbabwe",
@@ -14692,14 +14692,14 @@
          "sn",
          "nd"
       ],
-      "Motto":"",
-      "BestPlaceToVisit":"",
-      "Map":"",
-      "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":""
+      "Motto":null,
+      "BestPlaceToVisit":null,
+      "Map":null,
+      "Geography":null,
+      "ImportsPartners":null,
+      "ExportsPartners":null,
+      "Industries":null,
+      "Agriculture":null,
+      "Government":null
    }
 ]
