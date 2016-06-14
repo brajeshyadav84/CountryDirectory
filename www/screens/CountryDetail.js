@@ -163,12 +163,22 @@ var CountryDetail = React.createClass({
 	 	var header = contentList.name;
 	 	var timezone = "";
 	 	var language = "";
+	 	var borders = "";
 	 	
 	 	if(contentList.languages != null){
 	        language = (contentList.languages).map(function(obj) {
 	        	var objlanguage = obj + ", ";
 		        return (
 		              <Text key={obj}>{objlanguage}</Text>
+		        );
+	        });
+    	}
+
+    	if(contentList.borders != null){
+	        borders = (contentList.borders).map(function(obj) {
+	        	var objborders = obj + ", ";
+		        return (
+		              <Text key={obj}>{objborders}</Text>
 		        );
 	        });
     	}
@@ -213,7 +223,7 @@ var CountryDetail = React.createClass({
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Independence: </Text>
-			                          <Text></Text>
+			                          <Text>{contentList.Independence}</Text>
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Country Code: </Text>
@@ -225,7 +235,7 @@ var CountryDetail = React.createClass({
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Motto: </Text>
-			                          <Text style={IGStyle.titleSubText}>motto</Text>
+			                          <Text style={IGStyle.titleSubText}>{contentList.Motto}</Text>
 			                        </View>
 			                        <View style={IGStyle.otherSubLayout}> 
 			                          <Text style={IGStyle.titleText}>Anthem: </Text>
@@ -311,42 +321,42 @@ var CountryDetail = React.createClass({
 		                          <Text style={IGStyle.titleHeaderText}>Government </Text>
 		                        </View>
 		                        <View style={IGStyle.generalLayout}> 
-		                          <Text>Government</Text>
+		                          <Text>{contentList.Government[0].Type}</Text>
 		                        </View>
                                 
                                 <View style={IGStyle.subHeaderLayout}> 
 		                          <Text style={IGStyle.titleHeaderText}>Agriculture products </Text>
 		                        </View>
 		                        <View style={IGStyle.generalLayout}> 
-		                          <Text>Agriculture products</Text>
+		                          <Text>{contentList.Agriculture}</Text>
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
 		                          <Text style={IGStyle.titleHeaderText}>Industries </Text>
 		                        </View>
 		                        <View style={IGStyle.generalLayout}> 
-		                          <Text>Industries</Text>
+		                          <Text>{contentList.Industries}</Text>
 		                        </View>
                                 
                                 <View style={IGStyle.subHeaderLayout}> 
 		                          <Text style={IGStyle.titleHeaderText}>Exports partners </Text>
 		                        </View>
 		                        <View style={IGStyle.generalLayout}> 
-		                          <Text>Exports partners</Text>
+		                          <Text>{contentList.ExportsPartners}</Text>
 		                        </View>
                                 
                                 <View style={IGStyle.subHeaderLayout}> 
 		                          <Text style={IGStyle.titleHeaderText}>Imports partners </Text>
 		                        </View>
 		                        <View style={IGStyle.generalLayout}> 
-		                          <Text>Imports partners</Text>
+		                          <Text>{contentList.ImportsPartners}</Text>
 		                        </View>
                                   
                                 <View style={IGStyle.subHeaderLayout}> 
 		                          <Text style={IGStyle.titleHeaderText}>Geography </Text>
 		                        </View>
 		                        <View style={IGStyle.generalLayout}> 
-		                          <Text style={IGStyle.fullText}></Text>
+		                          <Text style={IGStyle.fullText}>{contentList.Geography}</Text>
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
@@ -360,7 +370,7 @@ var CountryDetail = React.createClass({
 		                          <Text style={IGStyle.titleHeaderText}>Border Details </Text>
 		                        </View>
 		                        <View style={IGStyle.generalLayout}> 
-		                          <Text style={IGStyle.fullText}></Text>
+		                          <Text style={IGStyle.fullText}>{borders}</Text>
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
