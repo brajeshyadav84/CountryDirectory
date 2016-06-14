@@ -361,13 +361,6 @@ var CountryDetail = React.createClass({
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
-		                          <Text style={IGStyle.titleHeaderText}>Best Place To Visit </Text>
-		                        </View>
-		                        <View style={IGStyle.otherLayout}> 
-		                          <Text style={IGStyle.fullText}> </Text>
-		                        </View>
-
-		                        <View style={IGStyle.subHeaderLayout}> 
 		                          <Text style={IGStyle.titleHeaderText}>Border Details </Text>
 		                        </View>
 		                        <View style={IGStyle.generalLayout}> 
@@ -375,11 +368,12 @@ var CountryDetail = React.createClass({
 		                        </View>
 
 		                        <View style={IGStyle.subHeaderLayout}> 
-		                          <Text style={IGStyle.titleHeaderText}>Map </Text>
+		                          <Text style={IGStyle.titleHeaderText}>Best Place To Visit </Text>
 		                        </View>
-		                        <View style={IGStyle.mapLayout}> 
-		                          <Image style={IGStyle.mapImage} source={{uri: MapData}} />
+		                        <View style={IGStyle.otherLayout}> 
+		                          <Text style={IGStyle.fullText}> </Text>
 		                        </View>
+
 		                    </View>
 				        </ScrollView>
 		        	</View>
