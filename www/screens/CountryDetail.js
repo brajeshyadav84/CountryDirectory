@@ -194,6 +194,7 @@ var CountryDetail = React.createClass({
 
     	var Flag = 'http://www.interviewgully.com/API/CD_V1/CountryFlags/'+contentList.alpha2Code.toLowerCase()+'.png';
         var Seal = 'http://www.interviewgully.com/API/CD_V1/CountrySeals/'+contentList.alpha2Code+'.png';
+        var MapData = 'http://www.interviewgully.com/API/CD_V1/CountryMaps/'+contentList.alpha2Code+'.png';
 
 		return (
 			<View style={IGStyle.bgGrey}>
@@ -377,7 +378,7 @@ var CountryDetail = React.createClass({
 		                          <Text style={IGStyle.titleHeaderText}>Map </Text>
 		                        </View>
 		                        <View style={IGStyle.mapLayout}> 
-		                          
+		                          <Image style={IGStyle.mapImage} source={{uri: MapData}} />
 		                        </View>
 		                    </View>
 				        </ScrollView>

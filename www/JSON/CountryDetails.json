@@ -1087,10 +1087,10 @@
       "Geography":"",
       "ImportsPartners":"",
       "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":[{"Type": ""}],
-      "Independence": ""
+      "Industries":"Garments, Jute, Cotton, Textile, Tea, Paper, Newsprint, Cement, Fertilizer, Sugar, Engineering, Electric cables , Leather, Fish",
+      "Agriculture":"Rice, Jackfruit, Jute, Tobacco, Sugarcane, Pulses, Oilseeds, Spices, Potatoes, Vegetables, Bananas, Mangoes, Coconut, Tea and Wheat",
+      "Government":[{"Type": "Parliamentary democracy"}],
+      "Independence": "26 March 1971 (from Pakistan). Constitution: 1972"
    },
    {  
       "name":"Barbados",
@@ -1141,12 +1141,12 @@
       "BestPlaceToVisit":"",
       "Map":"",
       "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":[{"Type": ""}],
-      "Independence": ""
+      "ImportsPartners":"USA 35.2%, Trinidad and Tobago 20%, UK 5.6%, Japan 4.3% (2004) ",
+      "ExportsPartners":"USA 20.6%, UK 14.5%, Trinidad and Tobago 13.9%, Saint Lucia 6.9%, Jamaica 6.6%, Saint Vincent and the Grenadines 5.1% (2004) ",
+      "Industries":"Tourism, sugar, financial services, information services, light manufacturing, component assembly for export",
+      "Agriculture":"Sugarcane, vegetables, cotton",
+      "Government":[{"Type": "Parliamentary democracy; independent sovereign state within the Commonwealth"}],
+      "Independence": "30 November 1966 (from the UK)"
    },
    {  
       "name":"Belarus",
@@ -1208,12 +1208,12 @@
       "BestPlaceToVisit":"",
       "Map":"",
       "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":[{"Type": ""}],
-      "Independence": ""
+      "ImportsPartners":"Russia 68.2%, Germany 6.6%, Ukraine 3.3% (2004) ",
+      "ExportsPartners":"Russia 47%, UK 8.3%, Netherlands 6.7%, Poland 5.3% (2004)",
+      "Industries":"Metal-cutting machine tools, tractors, trucks, earthmovers, motorcycles, televisions, chemical fibers, fertilizer, textiles, radios, refrigerators",
+      "Agriculture":"Grain, potatoes, vegetables, sugar beets, flax; beef, milk",
+      "Government":[{"Type": "Republic (in fact a dictatorship)"}],
+      "Independence": "25 August 1991 (from Soviet Union)"
    },
    {  
       "name":"Belgium",
@@ -1277,12 +1277,12 @@
       "BestPlaceToVisit":"",
       "Map":"",
       "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":[{"Type": ""}],
-      "Independence": ""
+      "ImportsPartners":"Netherlands 20.9%, Germany 14.2%, France 10.6%, USA 6.1%, UK 5.5%, Ireland 4.4% (2012)",
+      "ExportsPartners":"Germany 18%, France 16.1%, Netherlands 13%, UK 7.3%, USA 5.3%, Italy 4.4% (2012)",
+      "Industries":"Engineering and metal products, motor vehicle assembly, processed food and beverages, chemicals, basic metals, textiles, glass, petroleum",
+      "Agriculture":"Sugar beets, fresh vegetables, fruits, grain, tobacco; beef, veal, pork, milk",
+      "Government":[{"Type": "Federal parliamentary democracy under a constitutional monarch"}],
+      "Independence": "1830 (from the Netherlands) "
    },
    {  
       "name":"Belize",
@@ -1335,12 +1335,12 @@
       "BestPlaceToVisit":"",
       "Map":"",
       "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":[{"Type": ""}],
-      "Independence": ""
+      "ImportsPartners":"USA 30.1%, Mexico 12%, Guatemala 7.4%, Cuba 7.2%, China 4.2%, Japan 4.1% (2004)",
+      "ExportsPartners":"USA 37.2%, UK 26.8%, Jamaica 4.6% (2004) ",
+      "Industries":"Garment production, food processing, tourism, construction",
+      "Agriculture":"Sugar, citrus fruits and juices, bananas, mangoes, papayas, honey, corn, beans, rice, cattle (12.7% of GDP)",
+      "Government":[{"Type": "Parliamentary democracy"}],
+      "Independence": "21 September 1981 from the UK. Constitution: 21 September 1981"
    },
    {  
       "name":"Benin",
@@ -1396,12 +1396,12 @@
       "BestPlaceToVisit":"",
       "Map":"",
       "Geography":"",
-      "ImportsPartners":"",
-      "ExportsPartners":"",
-      "Industries":"",
-      "Agriculture":"",
-      "Government":[{"Type": ""}],
-      "Independence": ""
+      "ImportsPartners":"China 37.2%, US 8.9%, India 6.7%, France 5.6%, Malaysia 5.3% (2012)",
+      "ExportsPartners":"China 25%, India 23.5%, Lebanon 18.7%, Niger 4.3%, Nigeria 4% (2012)",
+      "Industries":"Textiles, food processing, construction materials, cement (2001)",
+      "Agriculture":"Cotton, corn, cassava (tapioca), yams, beans, palm oil, peanuts, livestock (2001)",
+      "Government":[{"Type": "Republic under multiparty democratic rule"}],
+      "Independence": "1 August 1960 (fom France). Constitution: 10 December 1990"
    },
    {  
       "name":"Bermuda",

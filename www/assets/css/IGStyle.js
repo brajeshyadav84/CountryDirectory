@@ -51,7 +51,7 @@ var styles = StyleSheet.create({
         // flex:1,
         // flexDirection: 'row',
         paddingTop:10,
-        height:200
+        height:300
     },
     generalLayout:{
         padding:10
