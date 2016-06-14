@@ -119,7 +119,7 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null,
+      "Government":[{"Type": null}],
       "Independence": null
    },
    {  
@@ -368,7 +368,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null,
+      "Government":[{"Type": null}],
+      "Independence": null,
       "Independence": "with the signing of the Pariatges 1278-1288"
    },
    {  
@@ -967,11 +968,12 @@
       "BestPlaceToVisit":null,
       "Map":null,
       "Geography":null,
-      "ImportsPartners":null,
-      "ExportsPartners":null,
+      "ImportsPartners":"USA 30.1%, India 20.3%, Singapore 8.7%, South Korea 6.8%, China 5%, Colombia 4.5%, Canada 4.2% (2012)",
+      "ExportsPartners":"Singapore 25.1%, USA 20.6%, Dominican Republic 12.9%, Ecuador 9.4%, Canada 5.8%, Switzerland 4.1%, China 4.1% (2012)",
       "Industries":null,
-      "Agriculture":null,
-      "Government":null
+      "Agriculture":"Citrus, vegetables; poultry",
+      "Government":[{"Type": "Constitutional parliamentary democracy"}],
+      "Independence": "10 July 1973 (from UK). Constitution: 10 July 1973"
    },
    {  
       "name":"Bahrain",
@@ -1026,9 +1028,10 @@
       "Geography":null,
       "ImportsPartners":null,
       "ExportsPartners":null,
-      "Industries":null,
-      "Agriculture":null,
-      "Government":null
+      "Industries":"Petroleum processing and refining, aluminum smelting, iron pelletization, fertilizers, offshore banking, ship repairing; tourism",
+      "Agriculture":"Fruit, vegetables; poultry, dairy products; shrimp, fish",
+      "Government":[{"Type": "Constitutional hereditary monarchy"}],
+      "Independence": "15 August 1971 (from the UK)"
    },
    {  
       "name":"Bangladesh",
@@ -1086,7 +1089,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Barbados",
@@ -1141,7 +1145,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Belarus",
@@ -1207,7 +1212,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Belgium",
@@ -1275,7 +1281,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Belize",
@@ -1332,7 +1339,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Benin",
@@ -1392,7 +1400,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Bermuda",
@@ -1448,7 +1457,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Bhutan",
@@ -1506,7 +1516,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Bolivia",
@@ -1575,7 +1586,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Bonaire",
@@ -1630,7 +1642,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Bosnia and Herzegovina",
@@ -1691,7 +1704,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Botswana",
@@ -1752,7 +1766,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Bouvet Island",
@@ -1807,7 +1822,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Brazil",
@@ -1877,7 +1893,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"British Indian Ocean Territory",
@@ -1930,7 +1947,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"United States Minor Outlying Islands",
@@ -1982,7 +2000,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"British Virgin Islands",
@@ -2035,7 +2054,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Brunei",
@@ -2092,7 +2112,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Bulgaria",
@@ -2153,7 +2174,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Burkina Faso",
@@ -2214,7 +2236,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Burundi",
@@ -2275,7 +2298,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Cambodia",
@@ -2333,7 +2357,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Cameroon",
@@ -2396,7 +2421,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Canada",
@@ -2457,7 +2483,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Cape Verde",
@@ -2514,7 +2541,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Cayman Islands",
@@ -2567,7 +2595,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Central African Republic",
@@ -2630,7 +2659,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Chad",
@@ -2694,7 +2724,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Chile",
@@ -2755,7 +2786,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"China",
@@ -2830,7 +2862,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Christmas Island",
@@ -2884,7 +2917,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Cocos (Keeling) Islands",
@@ -2939,7 +2973,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Colombia",
@@ -3000,7 +3035,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Comoros",
@@ -3060,7 +3096,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Republic of the Congo",
@@ -3121,7 +3158,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Democratic Republic of the Congo",
@@ -3192,7 +3230,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Cook Islands",
@@ -3246,7 +3285,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Costa Rica",
@@ -3304,7 +3344,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Croatia",
@@ -3366,7 +3407,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Cuba",
@@ -3424,7 +3466,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Curaçao",
@@ -3484,7 +3527,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Cyprus",
@@ -3546,7 +3590,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Czech Republic",
@@ -3607,7 +3652,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Denmark",
@@ -3669,7 +3715,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Djibouti",
@@ -3733,7 +3780,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Dominica",
@@ -3791,7 +3839,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Dominican Republic",
@@ -3848,7 +3897,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Ecuador",
@@ -3907,7 +3957,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Egypt",
@@ -3965,7 +4016,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"El Salvador",
@@ -4024,7 +4076,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Equatorial Guinea",
@@ -4085,7 +4138,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Eritrea",
@@ -4150,7 +4204,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Estonia",
@@ -4209,7 +4264,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Ethiopia",
@@ -4272,7 +4328,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Falkland Islands",
@@ -4326,7 +4383,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Faroe Islands",
@@ -4381,7 +4439,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Fiji",
@@ -4443,7 +4502,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Finland",
@@ -4505,7 +4565,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"France",
@@ -4580,7 +4641,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"French Guiana",
@@ -4636,7 +4698,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"French Polynesia",
@@ -4692,7 +4755,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"French Southern and Antarctic Lands",
@@ -4745,7 +4809,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Gabon",
@@ -4804,7 +4869,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"The Gambia",
@@ -4858,7 +4924,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Georgia",
@@ -4915,7 +4982,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Germany",
@@ -4980,7 +5048,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Ghana",
@@ -5037,7 +5106,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Gibraltar",
@@ -5090,7 +5160,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Greece",
@@ -5151,7 +5222,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Greenland",
@@ -5205,7 +5277,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Grenada",
@@ -5260,7 +5333,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Guadeloupe",
@@ -5314,7 +5388,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Guam",
@@ -5370,7 +5445,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Guatemala",
@@ -5428,7 +5504,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Guernsey",
@@ -5484,7 +5561,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Guinea",
@@ -5547,7 +5625,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Guinea-Bissau",
@@ -5605,7 +5684,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Guyana",
@@ -5663,7 +5743,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Haiti",
@@ -5723,7 +5804,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Heard Island and McDonald Islands",
@@ -5777,7 +5859,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Honduras",
@@ -5836,7 +5919,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Hong Kong",
@@ -5893,7 +5977,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Hungary",
@@ -5954,7 +6039,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Iceland",
@@ -6012,7 +6098,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"India",
@@ -6078,7 +6165,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Indonesia",
@@ -6139,7 +6227,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Ivory Coast",
@@ -6201,7 +6290,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Iran",
@@ -6264,7 +6354,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Iraq",
@@ -6327,7 +6418,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Republic of Ireland",
@@ -6386,7 +6478,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Isle of Man",
@@ -6443,7 +6536,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Israel",
@@ -6504,7 +6598,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Italy",
@@ -6566,7 +6661,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Jamaica",
@@ -6621,7 +6717,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Japan",
@@ -6678,7 +6775,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Jersey",
@@ -6735,7 +6833,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Jordan",
@@ -6795,7 +6894,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Kazakhstan",
@@ -6865,7 +6965,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Kenya",
@@ -6927,7 +7028,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Kiribati",
@@ -6986,7 +7088,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Kuwait",
@@ -7044,7 +7147,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Kyrgyzstan",
@@ -7107,7 +7211,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Laos",
@@ -7169,7 +7274,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Latvia",
@@ -7229,7 +7335,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Lebanon",
@@ -7288,7 +7395,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Lesotho",
@@ -7347,7 +7455,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Liberia",
@@ -7405,7 +7514,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Libya",
@@ -7467,7 +7577,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Liechtenstein",
@@ -7525,7 +7636,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Lithuania",
@@ -7585,7 +7697,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Luxembourg",
@@ -7648,7 +7761,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Macau",
@@ -7708,7 +7822,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Republic of Macedonia",
@@ -7769,7 +7884,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Madagascar",
@@ -7828,7 +7944,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Malawi",
@@ -7887,7 +8004,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Malaysia",
@@ -7944,7 +8062,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Maldives",
@@ -8002,7 +8121,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Mali",
@@ -8065,7 +8185,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Malta",
@@ -8123,7 +8244,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Marshall Islands",
@@ -8181,7 +8303,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Martinique",
@@ -8234,7 +8357,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Mauritania",
@@ -8294,7 +8418,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Mauritius",
@@ -8351,7 +8476,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Mayotte",
@@ -8406,7 +8532,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Mexico",
@@ -8468,7 +8595,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Federated States of Micronesia",
@@ -8525,7 +8653,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Moldova",
@@ -8583,7 +8712,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Monaco",
@@ -8640,7 +8770,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Mongolia",
@@ -8697,7 +8828,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Montenegro",
@@ -8760,7 +8892,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Montserrat",
@@ -8813,7 +8946,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Morocco",
@@ -8872,7 +9006,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Mozambique",
@@ -8934,7 +9069,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Myanmar",
@@ -8996,7 +9132,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Namibia",
@@ -9058,7 +9195,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Nauru",
@@ -9118,7 +9256,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Nepal",
@@ -9176,7 +9315,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Netherlands",
@@ -9232,7 +9372,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"New Caledonia",
@@ -9285,7 +9426,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"New Zealand",
@@ -9346,7 +9488,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Nicaragua",
@@ -9404,7 +9547,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Niger",
@@ -9468,7 +9612,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Nigeria",
@@ -9529,7 +9674,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Niue",
@@ -9582,7 +9728,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Norfolk Island",
@@ -9637,7 +9784,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"North Korea",
@@ -9697,7 +9845,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Northern Mariana Islands",
@@ -9753,7 +9902,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Norway",
@@ -9817,7 +9967,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Oman",
@@ -9876,7 +10027,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Pakistan",
@@ -9938,7 +10090,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Palau",
@@ -9995,7 +10148,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Palestine",
@@ -10052,7 +10206,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Panama",
@@ -10111,7 +10266,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Papua New Guinea",
@@ -10168,7 +10324,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Paraguay",
@@ -10229,7 +10386,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Peru",
@@ -10290,7 +10448,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Philippines",
@@ -10347,7 +10506,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Pitcairn Islands",
@@ -10401,7 +10561,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Poland",
@@ -10464,7 +10625,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Portugal",
@@ -10523,7 +10685,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Puerto Rico",
@@ -10580,7 +10743,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Qatar",
@@ -10637,7 +10801,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Republic of Kosovo",
@@ -10695,7 +10860,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Réunion",
@@ -10749,7 +10915,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Romania",
@@ -10811,7 +10978,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Russia",
@@ -10891,7 +11059,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Rwanda",
@@ -10954,7 +11123,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Saint Barthélemy",
@@ -11010,7 +11180,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Saint Helena",
@@ -11063,7 +11234,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Saint Kitts and Nevis",
@@ -11119,7 +11291,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Saint Lucia",
@@ -11174,7 +11347,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Saint Martin",
@@ -11234,7 +11408,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Saint Pierre and Miquelon",
@@ -11288,7 +11463,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Saint Vincent and the Grenadines",
@@ -11343,7 +11519,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Samoa",
@@ -11401,7 +11578,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"San Marino",
@@ -11458,7 +11636,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"São Tomé and Príncipe",
@@ -11515,7 +11694,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Saudi Arabia",
@@ -11578,7 +11758,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Senegal",
@@ -11639,7 +11820,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Serbia",
@@ -11705,7 +11887,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Seychelles",
@@ -11764,7 +11947,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Sierra Leone",
@@ -11821,7 +12005,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Singapore",
@@ -11882,7 +12067,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Sint Maarten",
@@ -11936,7 +12122,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Slovakia",
@@ -11997,7 +12184,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Slovenia",
@@ -12057,7 +12245,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Solomon Islands",
@@ -12112,7 +12301,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Somalia",
@@ -12174,7 +12364,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"South Africa",
@@ -12246,7 +12437,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"South Georgia",
@@ -12300,7 +12492,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"South Korea",
@@ -12356,7 +12549,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"South Sudan",
@@ -12416,7 +12610,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Spain",
@@ -12478,7 +12673,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Sri Lanka",
@@ -12536,7 +12732,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Sudan",
@@ -12600,7 +12797,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Suriname",
@@ -12662,7 +12860,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Svalbard and Jan Mayen",
@@ -12716,7 +12915,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Swaziland",
@@ -12778,7 +12978,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Sweden",
@@ -12836,7 +13037,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Switzerland",
@@ -12904,7 +13106,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Syria",
@@ -12965,7 +13168,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Taiwan",
@@ -13024,7 +13228,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Tajikistan",
@@ -13087,7 +13292,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Tanzania",
@@ -13152,7 +13358,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Thailand",
@@ -13215,7 +13422,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"East Timor",
@@ -13274,7 +13482,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Togo",
@@ -13334,7 +13543,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Tokelau",
@@ -13387,7 +13597,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Tonga",
@@ -13443,7 +13654,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Trinidad and Tobago",
@@ -13499,7 +13711,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Tunisia",
@@ -13557,7 +13770,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Turkey",
@@ -13622,7 +13836,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Turkmenistan",
@@ -13681,7 +13896,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Turks and Caicos Islands",
@@ -13734,7 +13950,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Tuvalu",
@@ -13789,7 +14006,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Uganda",
@@ -13851,7 +14069,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Ukraine",
@@ -13913,7 +14132,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"United Arab Emirates",
@@ -13970,7 +14190,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"United Kingdom",
@@ -14035,7 +14256,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"United States",
@@ -14105,7 +14327,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Uruguay",
@@ -14164,7 +14387,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Uzbekistan",
@@ -14227,7 +14451,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Vanuatu",
@@ -14287,7 +14512,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Venezuela",
@@ -14346,7 +14572,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Vietnam",
@@ -14405,7 +14632,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Wallis and Futuna",
@@ -14460,7 +14688,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Western Sahara",
@@ -14518,7 +14747,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Yemen",
@@ -14576,7 +14806,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Zambia",
@@ -14639,7 +14870,8 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    },
    {  
       "name":"Zimbabwe",
@@ -14700,6 +14932,7 @@
       "ExportsPartners":null,
       "Industries":null,
       "Agriculture":null,
-      "Government":null
+      "Government":[{"Type": null}],
+      "Independence": null
    }
 ]
