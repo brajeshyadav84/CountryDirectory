@@ -64,7 +64,7 @@ var styles = StyleSheet.create({
         // flexDirection: 'row',
         height: 30,
         paddingTop:5,
-        backgroundColor: 'grey',
+        backgroundColor: '#34457B',
         paddingLeft: 10
     },
     titleSubText: {
@@ -119,7 +119,7 @@ var styles = StyleSheet.create({
         fontWeight: 'bold'
     },
     titleHeaderText: {
-        // color:'grey',
+         color:'white'
         // fontSize: 12,
     },
     subtitleLinkText: {
