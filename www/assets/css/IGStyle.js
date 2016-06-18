@@ -382,6 +382,12 @@ var styles = StyleSheet.create({
         color: "lightgrey",
         fontSize: 13
     },
+
+    thumbTitle: {
+        color:'#2c7ef0',
+        fontWeight:'bold',
+        fontSize: 20,
+    }
 });
 
 module.exports = styles;

@@ -89,7 +89,7 @@ var BestPlace = React.createClass ({
               
                     <View style={IGStyle.cardTitleBestLayout}>
                         <View style={IGStyle.topicTitle}>
-                          <Text>{obj.title}</Text>
+                          <Text style={IGStyle.thumbTitle}>{obj.title}</Text>
                           <Text>{obj.description}</Text>
                           <Image style={IGStyle.imageThumbnail} source={{uri: ImageUrl}} />
                           <TouchableOpacity key="1" onPress={() => that.openbrowser()}>
