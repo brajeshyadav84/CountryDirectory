@@ -1,0 +1,21 @@
+[  
+   {  
+      "title":"London",
+      "description":"#1 in World's Best Places to Visit",
+      "ImageUrl":"http://static.travel.usnews.com/images/destinations/82/482151882.jpg",
+      "gallery": "http://travel.usnews.com/London_England/Pictures/",
+      "bestTime": "http://travel.usnews.com/London_England/When_To_Visit/",
+      "hotels": "http://travel.usnews.com/Hotels/London_England/",
+      "thingsToDo": "http://travel.usnews.com/London_England/Things_To_Do/"
+   },
+   {  
+      "title":"London 1",
+      "description":"#2 in World's Best Places to Visit",
+      "ImageUrl":"http://static.travel.usnews.com/images/destinations/82/482151882.jpg",
+      "gallery": "http://travel.usnews.com/London_England/Pictures/",
+      "bestTime": "http://travel.usnews.com/London_England/When_To_Visit/",
+      "hotels": "http://travel.usnews.com/Hotels/London_England/",
+      "thingsToDo": "http://travel.usnews.com/London_England/Things_To_Do/"
+   }
+]
+

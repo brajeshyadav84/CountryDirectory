@@ -90,6 +90,16 @@ var styles = StyleSheet.create({
         // marginLeft:15,
         // marginRight:15,
     },
+    cardTitleBestLayout: {
+        marginTop:5,
+        backgroundColor: 'white',
+        height: 250,
+        alignItems: 'center', 
+        justifyContent: 'center',
+        width: windowSize.width,
+        flexDirection:'row', 
+    },
+
     cardTitleLayout: {
         marginTop:5,
         backgroundColor: 'white',
@@ -131,6 +141,10 @@ var styles = StyleSheet.create({
          width: 45,
         // fontWeight:'bold',
          marginLeft:15
+    },
+    imageThumbnail : {
+         width: windowSize.width,
+         height:160
     },
     bg: {
         position: 'absolute',

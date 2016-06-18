@@ -12,7 +12,8 @@ curl "http://localhost:8081/index.android.bundle?platform=android" -o "android/a
 	react-native run-android;
 
 
-
+Note: lsof -i tcp:8081 (to get running process)
+kill -9 5365 (for delete node)
 
 
 

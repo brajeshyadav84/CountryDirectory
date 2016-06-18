@@ -6,7 +6,8 @@
 var React = require('react-native'),
     _lodash = require('lodash'),
     Home  = require('./www/screens/Home'),
-    CountryDetail = require('./www/screens/CountryDetail');
+    CountryDetail = require('./www/screens/CountryDetail'),
+    BestPlace = require('./www/screens/BestPlace');
 
 var {
   AppRegistry,
@@ -35,6 +36,11 @@ var CountryDirectory = React.createClass({
       return (
         <CountryDetail navigator={navigator} menuContentList={route.passProps}/>
       );
+    } else if (routeId === 'BestPlace') {
+      return (
+        <BestPlace navigator={navigator}/>
+      );
+        
     }
   },
 
